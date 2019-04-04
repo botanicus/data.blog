@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    blog-generator (0.4)
+      nokogiri (~> 1.7)
+    mini_portile2 (2.4.0)
+    nokogiri (1.9.1)
+      mini_portile2 (~> 2.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  blog-generator
+
+BUNDLED WITH
+   1.17.2
