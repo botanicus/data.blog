@@ -9,7 +9,7 @@ script:
 - rake build
 - mv content ~
 - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
-- git remote add origin https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
+- git remote set-url origin https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
 - git checkout origin/content -b content
 - mv ~/content .
 - git add content
