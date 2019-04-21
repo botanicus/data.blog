@@ -7,14 +7,12 @@ rvm:
 
 script:
 - rake build
-- mv content ~
 - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
 - git remote add github https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
 - git branch -a
 - git fetch github
 - git branch -a
-- git checkout remotes/github/content -b content
-- mv ~/content .
+- git checkout github/content -b content
 - git add content
 - git commit content -m "Generated from $SOURCE_COMMIT"
 - git push origin content
