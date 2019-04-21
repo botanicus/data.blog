@@ -13,12 +13,8 @@ script:
 - mv content ~
 - git checkout github/content -b content
 - rm -rf content && mv ~/content .
-- git status
-- git diff
 - git add content
-- git status
-- ls -a
-- git commit content -m "Generated from $SOURCE_COMMIT"
+- git commit content -m "Generated from $SOURCE_COMMIT, build $TRAVIS_BUILD_NUMBER"
 - git push github content
 
 # https://docs.travis-ci.com/user/notifications
