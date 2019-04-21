@@ -19,6 +19,12 @@ after_success:
 - git commit content -m "Generated from $SOURCE_COMMIT, build $TRAVIS_BUILD_NUMBER"; true
 - git push github content
 
-# https://docs.travis-ci.com/user/notifications
 notifications:
-  email: false
+  email: no
+
+  # https://docs.travis-ci.com/user/notifications/#configuring-pushover-notifications
+  pushover:
+    api_key:
+      secure: bznk/gsnK8Y8vwbKabL679v+w4a9oKRKn93AfSg4GMgWkjBjNzyyIK2vuROy4Lv71/zznq+agwWMl/H+F5AiU5UDM17NgTIpQ5R7dKnGv5aawbir/DI4dSxHrjmHYrieuguzBPMgaiyCZVeVcHtrBt9VzqfkUQa3q1wU9/qxPKWKz1tWmDlPWJAri3SIpzs61/7t1DhBuac9tieoPyWnk8ZeUnkREjzkGruL2iq/4yt7N7KvjaUgKeQWXU1S6Hb5wUj6bTjewSgN3jwidxnv6KjTmMYOi512+sUYlK/1ELBYZA6S/q5qMeBW5l9TTlv+gPkkOkq8VIWwjvFQ6dWwnV5T6Nj/vbO591N+yplhApYUXKd6+jOkYYJSAUt7e6pmU0keXPwat4Ir7BQYybeVFy4PU/Wd/bM2AC5Gc9w5U5+lC6+mG/eD0CxGchfCwReTfkYS3dcJy9SgYSttqJYa6uwQsGmuYIC7c8DtUG76/sQGnLIeSEjezQczADPY5w6zsAdwAP8/N12bn5KqiflJZJCfNiGZcgtujbmilskj4k2QuicBuEUsdxw9tyf/KJONaBpCB7rfDobBg/186FzZSDw/czBmPmzx1auYnG3vUnUMMYnxlZVNDquxmSIYD8Lytl5QP7ZiiNd1R0ReE54a93d+k//4kS9XlZl9w2+y0BU=
+    users:
+      secure: eUGkE5tbmgbnZAxlFsOkqldZbxhpCg6kg4WS8WxEuwik4w2wIwfvfB579ide5B27mAfh3t3dvwjpzaGbuBjkE73gyTSWiL2fX/gorZYOZ1SLfoNNm/1AAP/bzQgX4gBdutkT/yjxwjcr73ML/FPpk2A2DkQOLd2DBBrnsd1xPSIulgJhgOXT12HxL6FTAEs8WNTZ42Vnt68/QdQJVXRwUkd27QMmqDZWDs6GLgyCM9IIJoD1TtRqeOhykJplMOBtQbes2KU2Sp9kd4dSnOZ9VeF1jl3pYLF1DcVnpDdXeOoQ6H/I6D696vPm+Z0jewTI+PjynpQGDbPoCSQ1DA7xUyNJyhM3DV5JAkp3S20ztiRCqggx3UL608mbL2lVMfoGvP6GLQTUK20W78K4YcbYL/H5owNskJcX6Q1pNZZfILGvhBC9ZiZ8Vofy/WZRChBe1exxl8kl8jg+V1OYzKzjrGMC0wr/z+1XPpE2x6R11nHgC5D4eS3MAWJrThAmNmcWUZgyqD8qSuQQrSzLr9wbknmSPuUTHnPOv/wIbRuHzE3R31/lDuvmGCEXfnt9nr+FUfvtZWvKe569/dLxa5CwiYok4G3eeKh7BM/Bcvg9oFqm3THAJ1Ejhu4/gDdx5HVrvr5MynXShdUqwoHZKbY/1L0JxCwZnBgVmoWXtuVVyo4=
