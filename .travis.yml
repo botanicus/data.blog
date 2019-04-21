@@ -14,8 +14,10 @@ script:
 - git branch -a
 - git checkout github/content -b content
 - git status
+- ls -a
 - git add content
 - git status
+- ls -a
 - git commit content -m "Generated from $SOURCE_COMMIT"
 - git push github content
 
