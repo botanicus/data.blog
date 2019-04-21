@@ -1,0 +1,20 @@
+# https://docs.travis-ci.com/user/languages/ruby
+language: ruby
+cache: bundler
+
+rvm:
+- 2.6.2
+
+script:
+- rake build
+- mv content ~
+- export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
+- git checkout content
+- mv ~/content .
+- git add content
+- git commit content -m "Generated from $SOURCE_COMMIT"
+- git push origin content
+
+# https://docs.travis-ci.com/user/notifications
+notifications:
+  email: false
