@@ -13,9 +13,11 @@ script:
 - git fetch github
 - git branch -a
 - git checkout github/content -b content
+- git status
 - git add content
+- git status
 - git commit content -m "Generated from $SOURCE_COMMIT"
-- git push origin content
+- git push github content
 
 # https://docs.travis-ci.com/user/notifications
 notifications:
