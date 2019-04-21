@@ -14,7 +14,7 @@ script:
 - git checkout github/content -b content
 - rm -rf content && mv ~/content .
 - git add content
-- git commit content -m "Generated from $SOURCE_COMMIT, build $TRAVIS_BUILD_NUMBER"
+- git commit content -m "Generated from $SOURCE_COMMIT, build $TRAVIS_BUILD_NUMBER"; true
 - git push github content
 
 # https://docs.travis-ci.com/user/notifications
