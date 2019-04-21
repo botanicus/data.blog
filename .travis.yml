@@ -9,7 +9,7 @@ script:
 - rake build
 - mv content ~
 - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
-- git checkout content
+- git checkout origin/content -b content
 - mv ~/content .
 - git add content
 - git commit content -m "Generated from $SOURCE_COMMIT"
