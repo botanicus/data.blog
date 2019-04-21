@@ -6,10 +6,12 @@ rvm:
 - 2.6.2
 
 script:
+- rake build
+
+after_success:
 - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
 - git remote add github https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
 - git fetch github
-- rake build
 - mv content ~
 - git checkout github/content -b content
 - rm -rf content && mv ~/content .
