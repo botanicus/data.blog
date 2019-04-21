@@ -6,15 +6,15 @@ rvm:
 - 2.6.2
 
 script:
-- rake build
 - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
 - git remote add github https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
 - git fetch github
-- grep excerpt content/posts/protect-your-sanity.json
+- rake build
+- mv content ~
 - git checkout github/content -b content
-- grep excerpt content/posts/protect-your-sanity.json
+- rm -rf content && mv ~/content .
 - git status
-- ls -a
+- git diff
 - git add content
 - git status
 - ls -a
