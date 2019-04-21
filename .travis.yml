@@ -9,10 +9,10 @@ script:
 - rake build
 - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
 - git remote add github https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
-- git branch -a
 - git fetch github
-- git branch -a
+- grep excerpt content/posts/protect-your-sanity.json
 - git checkout github/content -b content
+- grep excerpt content/posts/protect-your-sanity.json
 - git status
 - ls -a
 - git add content
