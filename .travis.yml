@@ -10,7 +10,9 @@ script:
 - mv content ~
 - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
 - git remote set-url origin https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
+- git branch -a
 - git fetch
+- git branch -a
 - git checkout origin/content -b content
 - mv ~/content .
 - git add content
