@@ -6,8 +6,8 @@ Data for [botanicus.me](http://botanicus.me) using my [blog engine](https://gith
 
 ## Create a file in the `drop-area/` directory
 
-- The name is `drop-area/article-slug/article-slug.md`.
-- Any images and related files are in the `drop-area/article-slug` directory.
+- The name is `drop-area/article-slug.md`.
+- Any images and related files are in the `drop-area` directory.
 - The only `# Header` is name of the article.
 - The first paragraph is the excerpt.
 - All the `## Header`'s are the main titles and so on.
