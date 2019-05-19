@@ -6,18 +6,14 @@ rvm:
 - 2.6.2
 
 script:
-- bundle exec blog-generator.rb content
+- bundle exec blog-generator.rb drop-area content
 
 after_success:
 - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
 - git remote add github https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
-- git fetch github
-- mv content ~
-- git checkout github/content -b content
-- rm -rf content && mv ~/content .
 - git add content
 - git commit content -m "Generated from $SOURCE_COMMIT, build $TRAVIS_BUILD_NUMBER"; true
-- git push github content
+- git push github master
 
 notifications:
   email: no
