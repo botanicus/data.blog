@@ -1,3 +1,7 @@
+date: 2019-06-17 22:21:00
+
+---
+
 # Hello world!
 
 _So it happened to me as well: I decided to start blogging. I always enjoyed writing. As I haven't found a platform I'd like, I wrote my own blog engine (no ads, hurray!), blog content compiler. So what is it I'm going to be writing about?_
