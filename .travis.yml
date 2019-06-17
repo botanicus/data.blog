@@ -4,14 +4,14 @@ node_js:
 - "12"
 
 script:
-- yarn build
-- node --experimental-modules ../blog-generator.js/bin/blog-generator.mjs content output
+# - yarn build
+- node --experimental-modules node_modules/.bin/blog-generator posts output
 
 after_success:
-- export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
+# - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)
 - git remote add github https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
-- git add content
-- git commit content -m "Generated from $SOURCE_COMMIT, build $TRAVIS_BUILD_NUMBER"; true
+# - git add content
+# - git commit content -m "Generated from $SOURCE_COMMIT, build $TRAVIS_BUILD_NUMBER"; true
 - git push github master
 
 notifications:
