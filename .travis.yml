@@ -1,15 +1,11 @@
-# https://docs.travis-ci.com/user/languages/ruby
-language: ruby
-cache: bundler
+language: node_js
 
-rvm:
-- 2.6.2
-
-before_install:
-- gem update bundler
+node_js:
+- "12"
 
 script:
-- bundle exec blog-generator.rb drop-area content
+- yarn build
+- node --experimental-modules ../blog-generator.js/bin/blog-generator.mjs content output
 
 after_success:
 - export SOURCE_COMMIT=$(git log --pretty=format:'%h' -n 1)

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@botanicus/blog-generator": "^0.0.4"
+  },
+  "scripts": {
+    "build": "blog-generator.mjs content output"
+  }
+}
