@@ -1,4 +1,6 @@
-tags: ["open world"]
+tags:
+  - open world
+date: 2019-06-18T06:32:40.789Z
 
 ---
 
