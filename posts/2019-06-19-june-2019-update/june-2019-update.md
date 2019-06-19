@@ -6,10 +6,37 @@ date: 2019-06-19T01:42:16.320Z
 
 # June 2019 update
 
-_TODO_
+_This month I'm working on my blog and publishing pipeline. I'm looking for contract programming work. I'm experimenting with Oura ring to improve my sleep and I'm trying to live healthier._
 
-- I have a lot of work launching this blog. For that purpose I wrote a [blog engine][gh-blog-engine] in React.js and [blog content compiler][gh-blog-generator] that returns JSON files that then the engine consumes.
+## This blog
+
+I have a lot of work launching this blog. For that purpose I wrote:
+
+- A [blog front-end engine][gh-blog-engine] in React.js.
+- A [blog content compiler][gh-blog-generator] that allows me to write posts in markdown format and returns JSON files that then the front-end engine consumes.
+- Repozitory with [my blog posts][gh-data-blog] that includes both the markdown posts I've written and the generated JSON files. The JSON files get compiled on Travis CI.
+<!-- TODO: the runner to take it from Dropbox once I have a URL. -->
+
+## Looking for freelance work
+
+I left TopTal after 5 years due to being disatisfied with the changes in there in the last 2 years.
+
+Because of that, I'm on a look out for freelance work. Anything in **Ruby**, **Ruby on Rails**, **JavaScript** and **React.js**.
+
+If you might be interested, please check my [about page](/about).
+
+## Oura ring and health
+
+As an ongoing effort to live healthier, I got the [Oura ring][oura-ring] tracker to track my sleep and activity.
+
+It also tracks naps (automatically) and meditation.
+
+Being a diehard minimalist, I was very hesitant to get anything I'd have to wear on my body, but ring is something even I can accept.
+
+The data seems to be useful, but I'm still in the testing phase, so the judge is still out.
 
 <!-- Links -->
 [gh-blog-engine]: https://github.com/botanicus/blog
 [gh-blog-generator]: https://github.com/botanicus/blog-generator.js
+[gh-data-blog]: https://github.com/botanicus/data.blog
+[oura-ring]: https://ouraring.com/
