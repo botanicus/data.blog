@@ -1,5 +1,8 @@
 tags:
   - now
+  - Oura ring
+  - my blog engine
+  - OSS
 date: 2019-06-19T01:42:16.320Z
 
 ---
@@ -16,6 +19,8 @@ I have a lot of work launching this blog. For that purpose I wrote:
 - A [blog content compiler][gh-blog-generator] that allows me to write posts in markdown format and returns JSON files that then the front-end engine consumes.
 - Repozitory with [my blog posts][gh-data-blog] that includes both the markdown posts I've written and the generated JSON files. The JSON files get compiled on Travis CI.
 <!-- TODO: the runner to take it from Dropbox once I have a URL. -->
+
+_All of these projects are available as open-source software, free for anyone to use. Visit the links the see the project pages on GitHub._
 
 ## Looking for freelance work
 
