@@ -33,7 +33,7 @@ The other thing is the **extent of self-censorship** people employ these days. W
 
 This is no longer the case and many people are really cautious discussing their opinions online.
 
-And OK, I get it. These things are real, there is no doubt about it. But living life based in fears is dumb and boring way to live, fullstop.
+And OK, I get it. These things are real, there is no doubt about it. But _living life based in fears is dumb and boring way to live_, fullstop.
 
 Web sold out its soul and got handsomely paid.
 
