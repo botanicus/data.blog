@@ -13,7 +13,7 @@ tags:
 
 _This month I'm working on my blog and publishing pipeline. I'm looking for contract programming work. I'm experimenting with Oura ring to improve my sleep and I'm trying to live healthier._
 
-## This blog *<span style="color: gray">#IT</span>*
+## This blog <i class="hashtag">IT</i>
 
 I have a lot of work launching this blog. For that purpose I wrote:
 
