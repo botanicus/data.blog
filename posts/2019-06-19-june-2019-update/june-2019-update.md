@@ -31,7 +31,7 @@ Because of that, I'm on a look out for freelance work. Anything in **Ruby**, **R
 
 If you might be interested, please check my [about page](/about), contact info is in there.
 
-## Oura ring <i class="hashtag">health tracking</i>
+## Oura ring <i class="hashtag">health</i> <i class="hashtag">tracking</i>
 
 As an ongoing effort to live healthier, I got the [Oura ring][oura-ring] tracker to track my sleep and activity.
 
