@@ -1,6 +1,7 @@
 tags:
   - now
   - Oura ring
+  - health
   - my blog engine
   - OSS
 date: 2019-06-19T01:42:16.320Z
@@ -30,7 +31,7 @@ Because of that, I'm on a look out for freelance work. Anything in **Ruby**, **R
 
 If you might be interested, please check my [about page](/about).
 
-## Oura ring and health
+## Oura ring
 
 As an ongoing effort to live healthier, I got the [Oura ring][oura-ring] tracker to track my sleep and activity.
 
@@ -40,8 +41,15 @@ Being a diehard minimalist, I was very hesitant to get anything I'd have to wear
 
 The data seems to be useful, but I'm still in the testing phase, so the judge is still out.
 
+## Health
+
+- I **meditate** most of the days. I generally aim for 1 hour and I stick with it most of the time. I've been using the brilliant [LifeFlow brain synchronization][lifeflow] tracks for a good while now. I found them to have a noticeable effect on the quality of the meditation sessions.
+- Oura ring has been nagging me to do more exercise, so I'm **jogging more frequently** now.
+- After spending a month in Europe, where every meal comes with either potatoes or bread, I started to prepare **salad** for me most of the days. Now, even when I'm back to Mexico, where the food is much more fresh and healthy, I still keep eating salad most of the days.
+
 <!-- Links -->
 [gh-blog-engine]: https://github.com/botanicus/blog
 [gh-blog-generator]: https://github.com/botanicus/blog-generator.js
 [gh-data-blog]: https://github.com/botanicus/data.blog
 [oura-ring]: https://ouraring.com/
+[lifeflow]: https://www.project-meditation.org
