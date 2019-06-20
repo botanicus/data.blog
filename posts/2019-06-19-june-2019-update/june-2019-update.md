@@ -1,11 +1,11 @@
+date: 2019-06-19T01:42:16.320Z
 tags:
   - now
   - Oura ring
   - health
   - my blog engine
   - OSS
-  - values
-date: 2019-06-19T01:42:16.320Z
+  - life values
 
 ---
 
@@ -50,11 +50,11 @@ The data seems to be useful, but I'm still in the testing phase, so the judge is
 
 # Change of life values
 
-After being enlightened by a divine influence, I reevaluated my direction and values. During my 20s, I was always ready to party and my priorities were a lot about having fun, doing stupid things and traveling.
+After being enlightened by a divine influence, I came to reevaluate my direction and values. During my 20s, I was always ready to party and my priorities were a lot about having fun, doing stupid things and traveling.
 
 Many times it was great and many times it wasn't. It was necessary and I learned a lot. Now passing to my 30s, I feel ready to turn the page and concentrate on more lasting things.
 
-<!-- Links -->
+
 [gh-blog-engine]: https://github.com/botanicus/blog
 [gh-blog-generator]: https://github.com/botanicus/blog-generator.js
 [gh-data-blog]: https://github.com/botanicus/data.blog
