@@ -6,7 +6,7 @@ date: 2019-06-17 22:21:00
 
 _The first blog post. Short one, more of a note on my relationship to writing._
 
-I always found writing deeply satisfying. My first job was technical writing and I went on doing so on and off throughout my carreer.
+I always found writing deeply satisfying. My first job was technical writing and I went on doing so on and off throughout my career.
 
 Still, ever since I switched to English as my main language, my writing never felt to me as refined as I would've hoped.
 
