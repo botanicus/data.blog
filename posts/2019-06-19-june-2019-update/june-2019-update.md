@@ -4,6 +4,7 @@ tags:
   - health
   - my blog engine
   - OSS
+  - values
 date: 2019-06-19T01:42:16.320Z
 
 ---
@@ -46,6 +47,12 @@ The data seems to be useful, but I'm still in the testing phase, so the judge is
 - I **meditate** most of the days. I generally aim for 1 hour and I stick with it most of the time. I've been using the brilliant [LifeFlow brain synchronization][lifeflow] tracks for a good while now. I found them to have a noticeable effect on the quality of the meditation sessions.
 - Oura ring has been nagging me to do more exercise, so I'm **jogging more frequently** now.
 - After spending a month in Europe, where every meal comes with either potatoes or bread, I started to prepare **salad** for me most of the days. Now, even when I'm back to Mexico, where the food is much more fresh and healthy, I still keep eating salad most of the days.
+
+# Change of life values
+
+After being enlightened by a divine influence, I reevaluated my direction and values. During my 20s, I was always ready to party and my priorities were a lot about having fun, doing stupid things and traveling.
+
+Many times it was great and many times it wasn't. It was necessary and I learned a lot. Now passing to my 30s, I feel ready to turn the page and concentrate on more lasting things.
 
 <!-- Links -->
 [gh-blog-engine]: https://github.com/botanicus/blog
