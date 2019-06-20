@@ -12,7 +12,7 @@ date: 2019-06-19T01:42:16.320Z
 
 _This month I'm working on my blog and publishing pipeline. I'm looking for contract programming work. I'm experimenting with Oura ring to improve my sleep and I'm trying to live healthier._
 
-## This blog <span style="color: gray">#IT</span>
+## This blog *<span style="color: gray">#IT</span>*
 
 I have a lot of work launching this blog. For that purpose I wrote:
 
@@ -23,7 +23,7 @@ I have a lot of work launching this blog. For that purpose I wrote:
 
 _All of these projects are available as open-source software, free for anyone to use. Visit the links the see the project pages on GitHub._
 
-## Looking for freelance work
+## Looking for freelance work *<span style="color: gray">#IT</span>*
 
 I left TopTal after 5 years due to being disatisfied with the changes in there in the last 2 years.
 
@@ -31,7 +31,7 @@ Because of that, I'm on a look out for freelance work. Anything in **Ruby**, **R
 
 If you might be interested, please check my [about page](/about).
 
-## Oura ring
+## Oura ring *<span style="color: gray">#health #tracking</span>*
 
 As an ongoing effort to live healthier, I got the [Oura ring][oura-ring] tracker to track my sleep and activity.
 
