@@ -6,6 +6,12 @@ date: 2019-06-17 22:21:00
 
 _I decided to start blogging. Here is a brief overview about the topics I'm going to be writing about._
 
+I always enjoyed writing. My first job was technical writing, which I did on and off throughout my carreer.
+
+Quite frankly I feel my
+:czech_republic:
+:+1:
+
 I always enjoyed writing. As I haven't found a platform I'd like, I wrote my own blog engine (no ads, hurray!), blog content compiler. So what is it I'm going to be writing about?_
 
 Eventually I decided to write my own [blog engine][gh-blog-engine] and [blog content compiler][gh-blog-generator], I got the incredibly useful Editorial app for iOS and I'm good to go!
