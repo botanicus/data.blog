@@ -13,7 +13,7 @@ tags:
 
 _This month I'm working on my blog and publishing pipeline. I'm looking for contract programming work. I'm experimenting with Oura ring to improve my sleep and I'm trying to live healthier._
 
-## This blog <i class="hashtag">#IT</i>
+## This blog <i class="hashtag">IT</i>*
 
 I have a lot of work launching this blog. For that purpose I published:
 
@@ -23,7 +23,7 @@ I have a lot of work launching this blog. For that purpose I published:
 
 _All these projects are available as open-source software, free for anyone to use. Visit the links the see the project pages on GitHub. Contributions welcomed._
 
-## Looking for freelance work <i class="hashtag">#IT</i>
+## Looking for freelance work <i class="hashtag">IT</i>*
 
 I left TopTal after 5 years due to being disatisfied with the changes in there in the last 2 years.
 
@@ -31,7 +31,7 @@ Because of that, I'm on a look out for freelance work. Anything in **Ruby**, **R
 
 If you might be interested, please check my [about page](/about), contact info is in there.
 
-## Oura ring <i class="hashtag">#health #tracking</i>
+## Oura ring <i class="hashtag">health tracking</i>*
 
 As an ongoing effort to live healthier, I got the [Oura ring][oura-ring] tracker to track my sleep and activity.
 
