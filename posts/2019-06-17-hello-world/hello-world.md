@@ -4,7 +4,9 @@ date: 2019-06-17 22:21:00
 
 # Hello world!
 
-_So it happened to me as well: I decided to start blogging. I always enjoyed writing. As I haven't found a platform I'd like, I wrote my own blog engine (no ads, hurray!), blog content compiler. So what is it I'm going to be writing about?_
+_I decided to start blogging. Here is a brief overview about the topics I'm going to be writing about._
+
+I always enjoyed writing. As I haven't found a platform I'd like, I wrote my own blog engine (no ads, hurray!), blog content compiler. So what is it I'm going to be writing about?_
 
 Eventually I decided to write my own [blog engine][gh-blog-engine] and [blog content compiler][gh-blog-generator], I got the incredibly useful Editorial app for iOS and I'm good to go!
 
