@@ -25,9 +25,9 @@ There were very few articles like _"6 reasons to be addicted to blog title gener
 
 Fast-forward 20 years and the picture is quite different. _Searching through Google is like digging through a rubbish bin._ Some things might look somewhat edible, but ultimately most of it is just rotten.
 
-I'm not saying no one is blogging purely for personal expression, but I'm saying that these people get much less visibility these days, since these people generally care (and know) very little about <abbr title="Search engine optimization">SEO</abbr> and they simply cannot compete with professional blogs that are backed by a whole team of people.
+I'm not saying no one is blogging _primarily_ for personal expression, but I'm saying that these people get much less visibility these days, since these people generally care (and know) very little about <abbr title="Search engine optimization">SEO</abbr> and they simply cannot compete with professional blogs that are backed by a whole team of people.
 
-And I generally think amateur blogging without any business agenda became much less of a thing that it used to be.
+And I generally think amateur blogging without _dominating_ business agenda became much less of a thing that it used to be.
 
 The other thing is the **extent of self-censorship** people employ these days. When blogs just emerged, barely anyone was thinking about the posibility that saying something silly online could ruin one's career.
 
