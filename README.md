@@ -1,5 +1,7 @@
 # About
 
+git remote set-url --add origin                                                                                                                     git@gitlab.com:botanicus1/data-blog.git
+
 Data for [botanicus.me](http://botanicus.me) using my [blog engine](https://github.com/botanicus/blog).
 
 # Workflow
