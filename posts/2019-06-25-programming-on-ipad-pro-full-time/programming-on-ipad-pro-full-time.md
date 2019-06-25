@@ -1,3 +1,7 @@
+tags: ["iPad Pro"]
+
+---
+
 # Programming on iPad Pro 12.9" full-time
 
 _One year ago I went _
