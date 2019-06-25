@@ -12,6 +12,9 @@ after_success:
 - git remote add github https://$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
 # - git add content
 # - git commit content -m "Generated from $SOURCE_COMMIT, build $TRAVIS_BUILD_NUMBER"; true
+- git status
+- git log
+- git show
 - git push github master
 
 notifications:
