@@ -4,7 +4,7 @@ date: 2019-06-25T16:26:42.848Z
 
 ---
 
-# Programming on iPad Pro full-time
+# Why I switched from MacBook to iPad Pro
 
 _One year ago I decided to do an experiment. I wanted to see whether I can manage to survive holidays with occasional coding with only an iPad Pro and SmartKeyboard. The experiment turned into a huge success. I ended up giving away my MacBook and never looking back._
 
@@ -36,13 +36,7 @@ I don't need to wait for a lazy waitress to bring me a note with barely readable
 
 And finally ... if the WiFi sucks, as it often does, LTE saves the day.
 
-### Screenshot annotation
-
-Being a web developer, vast majority of bugs manifests itself in a visible form.
-
-There's nothing easier than taking a screenshot and annotating it with the Apple Pencil and then just uploading it into client's bug tracking system.
-
-![](screenshot-annotation.jpg)
+![](working-outside.jpg)
 
 ### No noisy fans, burned things and no slow waking up
 
@@ -54,12 +48,30 @@ Given how long it takes me to be able to do anything in the morning, I found thi
 
 ### Battery life
 
+iPad Pro gets me through the whole day without any problems. For me this is an important factor.
+
+MacBook Air did as well, but MacBook Pro didn't, back in the day when I was using it.
+
 ### FaceID
+
+Ever since I upgraded to the new iPad Pro 12.9", I have to say I love FaceID. It just works.
+
+The thing is TouchID works _quite OK_ in many situations. The minute you're doing something out of the norm, such as working from a beach, when your palms get all sweaty, it's a pain.
+
+And since I live in a hot country, this quickly became an issue. Looking back, I'm glad I upgraded, even just the FaceID is well worth it.
 
 ### Flexibility
 
 Rotating the screen, having it in the right position.
 Home setup vs. work from a café setup.
+
+### Screenshot annotation
+
+Being a web developer, vast majority of bugs manifests itself in a visible form.
+
+There's nothing easier than taking a screenshot and annotating it with the Apple Pencil and then just uploading it into client's bug tracking system.
+
+![](screenshot-annotation.jpg)
 
 ### Split-screen
 
@@ -67,24 +79,4 @@ I found the idea of overlapping windows bloated, annoying and unnecessary.
 
 What iOS came up with is not exactly new: tile window managers on Linux have been doing it for a while. But it's an approach that works and makes sense.
 
-## My Workflow
-
-### Blink, Mosh, DigitalOcean & Docker-project-manager
-
-Docker-project-manager
-
-### Remotix, mouse, RDP & remote Windows in Azure
-
-	"Hey man, the app is ready! It works great on mobile Safari on my iPad!"
-
-It's crystal clear that as a professional web developer, I have to test on desktop browsers as well. Therefore, having access to a desktop OS is imperative.
-
-And there's another thing: doing JS development without Chrome development tools is quite impossible.
-
-Azure is the only service I pay for that I didn't pay for before. And it's costly: to have a decently fast Windows machine, I pay XXX monthly.
-
-But ... I don't have to carry a notebook around. No one can steal it, and I will never need to buy a "new version": the cost of HW upgrades is not on me.
-
-You might have noticed that the title talks about iPad Pro 12.9", while I said I bought iPad Pro 10.5".
-
-As much as prefer the smaller one, testing a web app in such a small resolution simply is not an option. It's just too small. So I got the large iPad Pro and I use the small one as my personal device.
+And that's it! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
