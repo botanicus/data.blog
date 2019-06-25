@@ -4,7 +4,7 @@ date: 2019-06-25T16:26:42.848Z
 
 ---
 
-# Programming on iPad Pro 12.9" full-time
+# Programming on iPad Pro full-time
 
 _One year ago I decided to do an experiment. I wanted to see whether I can manage to survive holidays with occasional coding with only an iPad Pro and SmartKeyboard. The experiment turned into a huge success. I ended up selling my MacBook and never looking back._
 
@@ -12,23 +12,37 @@ _One year ago I decided to do an experiment. I wanted to see whether I can manag
 
 It was just before my holidays. I was in my room packing my hand luggage to go on vacations. Basic clothes, running shoes, toothbrush ... Suddenly my eyes landed on my old MacBook Air.
 
-Considering how little work I had coming up, I really didn't feel like bringing it along.
+Somehow I didn't feel like bringing it along. I didn't have much work coming up and the battery of this computer grandfather got really weak. No wonder: I've been using it daily for nearly 5 years.
 
-Especially as the battery got rather weak. No wonder: I've been using it daily for nearly 5 years.
-
-I decided I wouldn't take it. I went to the nearest Apple Store and bought an iPad Pro 10.5" with ApplePencil and SmartKeyboard.
+So I decided I wouldn't take it. I went to the nearest Apple Store and bought an <i class="hashtag">iPad Pro 10.5"</i> with <i class="hashtag">Apple Pencil</i> and <i class="hashtag">SmartKeyboard</i>.
 
 Just to try it, I said. It was late June 2018.
 
 ## Fast-forward to now
 
-It's going to be one year soon. Since then, I got rid off my old MacBook Air and I've been developing exclusively on iPad and I don't look back.
+It's going to be one year soon. Since then, I got rid off my old MacBook Air and I've been developing exclusively on an iPad Pro and I don't look back.
+
+I upgraded since then to <i class="hashtag">iPad Pro 12.9"</i>, since it turned out testing web apps on 10.5" screen is simply not viable, but I'm still on an iPad Pro.
 
 ## Advantages
 
 ### LTE
 
+At times I go and work from the park. I watch the squirrels when I'm tired, walk a bit and the go on working.
+
+I sometimes take the iPad out and work in places where I otherwise wouldn't bother.
+
+I don't need to wait for a lazy waitress to bring me a note with barely readable 32 character long weird WiFi password.
+
+And finally ... if the WiFi sucks, as it often does, LTE saves the day.
+
 ### Screenshot annotation
+
+Being a web developer, vast majority of bugs manifests itself in a visible form.
+
+There's nothing easier than taking a screenshot and annotating it with the Apple Pencil and then just uploading it into client's bug tracking system.
+
+![](screenshot-annotation.jpg)
 
 ### Battery life
 
