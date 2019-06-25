@@ -1,4 +1,6 @@
-tags: ["iPad Pro"]
+tags:
+  - iPad Pro
+date: 2019-06-25T16:26:42.848Z
 
 ---
 
