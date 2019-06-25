@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@botanicus/blog-generator": "^0.0.14"
+    "@botanicus/blog-generator": "^0.0.15"
   },
   "scripts": {
     "build": "blog-generator posts output"
