@@ -6,7 +6,7 @@ date: 2019-06-25T16:26:42.848Z
 
 # Programming on iPad Pro 12.9" full-time
 
-_One year ago I went_
+_One year ago I decided to do an experiment. I wanted to see whether I can manage to survive holidays with occasional coding with only an iPad Pro and SmartKeyboard. The experiment turned into a huge success. I ended up selling my MacBook and never looking back._
 
 ## How it all started
 
