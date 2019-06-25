@@ -6,7 +6,7 @@ date: 2019-06-25T16:26:42.848Z
 
 # Programming on iPad Pro full-time
 
-_One year ago I decided to do an experiment. I wanted to see whether I can manage to survive holidays with occasional coding with only an iPad Pro and SmartKeyboard. The experiment turned into a huge success. I ended up selling my MacBook and never looking back._
+_One year ago I decided to do an experiment. I wanted to see whether I can manage to survive holidays with occasional coding with only an iPad Pro and SmartKeyboard. The experiment turned into a huge success. I ended up giving away my MacBook and never looking back._
 
 ## How it all started
 
@@ -43,6 +43,14 @@ Being a web developer, vast majority of bugs manifests itself in a visible form.
 There's nothing easier than taking a screenshot and annotating it with the Apple Pencil and then just uploading it into client's bug tracking system.
 
 ![](screenshot-annotation.jpg)
+
+### No noisy fans, burned things and no slow waking up
+
+Call me spoiled if you will, but I just hate fans, burning hot notebook and the time it takes to wake up the whole damn thing.
+
+With iPad, none of it is a problem. Most of the time the thing is actually cool. It has no fans and it's ready for action at any time.
+
+Given how long it takes me to be able to do anything in the morning, I found this to be next to a miracle.
 
 ### Battery life
 
