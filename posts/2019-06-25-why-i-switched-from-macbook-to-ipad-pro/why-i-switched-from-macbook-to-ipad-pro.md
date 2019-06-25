@@ -38,7 +38,7 @@ And finally ... if the WiFi sucks, as it often does, LTE saves the day.
 
 ![](working-outside.jpg)
 
-### No noisy fans, burned things and no slow waking up
+### No noisy fans, burned thighs and no slow waking up
 
 Call me spoiled if you will, but I just hate fans, burning hot notebook and the time it takes to wake up the whole damn thing.
 
