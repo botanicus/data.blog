@@ -22,6 +22,8 @@ notifications:
 
   # https://docs.travis-ci.com/user/notifications/#configuring-pushover-notifications
   pushover:
+    on_failure: always
+    on_success: change
     api_key:
       secure: YMtQLCxaTx7tW0A6yjwDkhnATY1Skfm+8UN+vqvMEurVHi2ZYwMfG+dlR0yY/dEYR0XcVf50cfIyxpdO0V/hxrLiuiyI8Z+b9iFuLoiy1Zf8ubmHbTgpptbQEQfS8wBCSzlXNZzZfaCSlT413qGll+b9BIredzNmTWixTpFuq+6mEsDwtDib4naAU8Ru7vvb1aKonn3snKPlmqFOjPDFXOuXCP1VD7wMTw6YPzttAhJ4nTsMI2sHnqBgwD97Nlq3og6NxDEURxGofb6iK9YyPHNco3m5opIjb2kRTcoz4GCOmIgTdNzJKC1lRkyPSAcvuRr7E+0iqeK6lqLWyaFgaMFlq8v4cwSiSYc+NaDtLoH7aw0PEk1wkEcC2YLUNANEFE9f8ygDaaViPDeKfE7Rcefkldl1FVbb1Z2cGBIbLcsx3LNXDdpBwPLMvWohCkg6zvAVw9atuFC2m7VXociKeE+sP5SpyCSpDZORbbfeUpMS+FwA7Vmy5saMbsHk1EJuoigJxZjKVOFhf35R5Ftz+scDLCvTdsIPpgBjvvcsHTAJh8D5e56RLbDMLCqywt5ANwgN0fiilaQEuJVV1t/96AE5ZCGHQ00DdjVbWsSm7mVT73FzRSC0gDb97WDxp9iQBDKDqcqhToBaXLll7niTibfpUGCoMFDsLiAHMg+U5p0=
     users:
