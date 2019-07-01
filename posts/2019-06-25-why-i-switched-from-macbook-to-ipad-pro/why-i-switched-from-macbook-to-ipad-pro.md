@@ -86,4 +86,4 @@ What iOS came up with is not exactly new: tile window managers on Linux have bee
 
 And that's it! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
 
-![](split-screen.jpg)
+![](split-screen.png)
