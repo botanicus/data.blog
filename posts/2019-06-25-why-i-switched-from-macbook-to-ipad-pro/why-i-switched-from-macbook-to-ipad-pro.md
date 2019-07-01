@@ -28,7 +28,7 @@ I upgraded since then to <i class="hashtag">iPad Pro 12.9"</i>, since it turned 
 
 ### LTE
 
-At times I go and work from the park. I watch the squirrels when I'm tired, walk a bit and the go on working.
+At times I go and work from the park. I watch the squirrels when I'm tired, walk a bit and then go on working.
 
 I sometimes take the iPad out and work in places where I otherwise wouldn't bother.
 
@@ -42,9 +42,9 @@ And finally ... if the WiFi sucks, as it often does, LTE saves the day.
 
 Call me spoiled if you will, but I just hate fans, burning hot notebook and the time it takes to wake up the whole damn thing.
 
-With iPad, none of it is a problem. Most of the time the thing is actually cool. It has no fans and it's ready for action at any time.
+With iPad, none of it is a problem. Most of the time the thing actually stays cool. It has no fans and it's ready for action at any time.
 
-Given how long it takes me to be able to do anything in the morning, I found this to be next to a miracle.
+Given how long it takes _me_ to be able to do anything in the morning, I found this to be next to a miracle.
 
 ### Battery life
 
@@ -62,8 +62,13 @@ And since I live in a hot country, this quickly became an issue. Looking back, I
 
 ### Flexibility
 
-Rotating the screen, having it in the right position.
-Home setup vs. work from a café setup.
+I really appreciate that the screen is not fixed to any base, such as one with a keyboard.
+
+It makes it easy to do more flexible setups. Such as standing desk, you have your iPad in the height of your eyes, and a BT keyboard wherever it's comfortable.
+
+If you get the right stand, you can rotate the screen between the portrait and landscape mode when necessary.
+
+And finally, if you just want to take it into a café, all you need to do is to attach the SmartKeyboard and you're good to go.
 
 ### Screenshot annotation
 
@@ -80,3 +85,5 @@ I found the idea of overlapping windows bloated, annoying and unnecessary.
 What iOS came up with is not exactly new: tile window managers on Linux have been doing it for a while. But it's an approach that works and makes sense.
 
 And that's it! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
+
+![](split-screen.jpg)
