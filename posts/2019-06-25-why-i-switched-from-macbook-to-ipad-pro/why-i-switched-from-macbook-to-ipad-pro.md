@@ -84,6 +84,6 @@ I found the idea of overlapping windows bloated, annoying and unnecessary.
 
 What iOS came up with is not exactly new: tile window managers on Linux have been doing it for a while. But it's an approach that works and makes sense.
 
-And that's it! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
-
 ![](split-screen.png)
+
+And that's it for now! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
