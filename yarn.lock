@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@botanicus/blog-generator@^0.0.22":
-  version "0.0.22"
-  resolved "https://registry.yarnpkg.com/@botanicus/blog-generator/-/blog-generator-0.0.22.tgz#3d696b1c885fca9336733a9ec282b8740e45b725"
-  integrity sha512-Lflqw4nCAZubJ4TE4/X30doPyMGfaMo58Oo/j9G+LmRenn7eBnARmNrqG/BRxOB1yXHaRhjPvdm3UyYsFudbuw==
+"@botanicus/blog-generator@^0.0.23":
+  version "0.0.23"
+  resolved "https://registry.yarnpkg.com/@botanicus/blog-generator/-/blog-generator-0.0.23.tgz#61e85b4ef5329c67d0383a80a37420557b8782c3"
+  integrity sha512-EyLXoLNabjuR4S8Dsozte9DoFLTFTBDdy9QHnB8T9GK2+uLbnxku/mjgryhyakc40sWLVflkxneXgXTHbari4g==
   dependencies:
     "@botanicus/fs-actions" "^0.0.11"
     js-yaml "^3.13.1"
