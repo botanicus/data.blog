@@ -25,6 +25,7 @@ If you want to check your `config/database.yml` into the repozitory, you should 
 And you can: just create a new user *with the same name as your system user*.
 
 ```
+#sudo -U pgsql initdb
 sudo -u postgres createuser -s $(whoami)
 ```
 
@@ -33,7 +34,7 @@ sudo -u postgres createuser -s $(whoami)
 Open `/etc/postgresql/10/main/pg_hba.conf` and look for this line:
 
 ```
-local   all             all                                     peer
+local     all      all    peer
 ```
 
 Now change `peer` authentication method to `trust`.
@@ -56,3 +57,7 @@ ALTER USER myuser WITH SUPERUSER;
 ## Bootstrapping the databases
 
 And that's it! Now just run the usual `bundle exec rails db:create db:migrate` and you should be good to go.
+
+## Links
+
+- [Postgres permissions cheatsheet](https://tableplus.io/blog/2018/04/postgresql-how-to-grant-access-to-users.html)
