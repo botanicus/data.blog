@@ -14,7 +14,7 @@ _Every single time I try to set up Postgres with a new project, I run into some 
 ## Installation
 
 ```
-apt get install postgresql libpq-dev
+apt-get install postgresql libpq-dev
 gem install pg
 ```
 
