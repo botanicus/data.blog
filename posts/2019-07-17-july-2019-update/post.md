@@ -46,5 +46,5 @@ I'm really happy with that and at some point I'm going to post about my blogging
 So far July hasn't been an easy month. I managed to eat pretty well, but I haven't done a lot of meditation this month and my sleep have been pretty weak lately as well.
 
 
-gh-blog: https://github.com/botanicus/blog
-gh-dropbox-blog-publisher: https://github.com/botanicus/runners/tree/master/dropbox-blog-publisher
+[gh-blog]: https://github.com/botanicus/blog
+[gh-dropbox-blog-publisher]: https://github.com/botanicus/runners/tree/master/dropbox-blog-publisher
