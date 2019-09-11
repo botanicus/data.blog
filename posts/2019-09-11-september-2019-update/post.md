@@ -1,5 +1,10 @@
 tags:
 - now
+- Ruby on Rails
+- React.js
+- Draft.js
+- spirituality
+- retreat
 date: 2019-09-11 14:00:06.435930482 +00:00
 
 ---
@@ -15,6 +20,11 @@ I had plenty of work the past 2 months. It's a project in Ruby on Rails, React a
 
 I'm the only developer on the project and it's fun, but equally it's exhausting.
 
+I spent some 3 weeks writing a rich text editor in Draft.js. Draft.js is a framework for writing rich text editors and just as React.js, it came from Facebook.
+
+It's really cool and there was never such an easy way to write a rich text editor. Those who had to customize TinyMCE know what I mean.
+
+But that doesn't mean it's easy, especially as the Draft.js ecosystem is nowhere near as mature as for instance the React.js ecosystem.
 
 ## Partial migration from Things to Reminders <i class="hashtag">IT</i>
 
@@ -41,7 +51,16 @@ And since there's no sharing in Things, I migrated these tasks that are relevant
 I have to say Reminders are nowhere near where Things, nowhere near at all, but having all the relevant tasks at hand is more important than anything else.
 
 ## Discovering my <i class="hashtag">spirituality</i>
-....
+
+I was always quite a spiritual person (not in the organized religion sense, rather I believe spirituality is path unique to each person). I've been a regular meditator for the past 6 years and early this year I started to do reiki.
+
+With that said, many things happened in the past 2 months and I found myself immersed deeply in things I always believed in, but didn't know I have anything to do with.
+
+I found that my 2 very close friends have a lot to do with this, but they just choose not to talk about it too publicly, so knowing them for as long as I do, only now I discovered there's a whole new layer of them that I haven't encountered before and one that's crucial to their identity and values in the world.
+
+There's been many up and downs, more ups than downs, but the downs also came and were quite scary.
+
+Anyway there's always been something crucial that was missing to my life, I knew it, but didn't know what it was. Now I know and I'm going to dedicate a lot more time to this in the future.
 
 ## Planning to rest and travel  <i class="hashtag">health</i>
 
