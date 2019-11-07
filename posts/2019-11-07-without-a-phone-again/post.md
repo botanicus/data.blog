@@ -33,20 +33,10 @@ And if I'm to choose, iPad wins every single time. The main reason? SmartKeyboar
 
 It'd be quite perfect, unfortunately my iPad is the WiFi version. Next time I'm sure to buy the celular version, but for the time being it's good enough. 
 
-One issue is
+One issue is that it's impossible to install **WhatsApp** on an iPad without some serious hacking. But ... pretty much everyone has Messenger and that works on an iPad easy peasy.
 
-## Issues: no celular connectivity
-WSP
+There's one person that I communicate with on a fairly regular basis that has only WhatsApp. So my sister re-sends her my messages.
 
-I really wish I would have bought the celular version of the iPad. This would 
+I also admit that an iPad is not the most convenient device to read a **map**. Does it matter? I still use it like that. And funny enough, my navigation sense improved a lot, because in effect, I'm more mindful of the route, because it's a hassle trying to navigate with an iPad.
 
-## Issues: using it on the street
-
-I admit that an iPad is not the most convenient device to read a map. Does it matter? I still use it like that. And my navigation sense improved a lot, because in effect, I'm more mindful of the route, because it's a hassle trying to navigate with an iPad.
-
-Seriously, we don't even realize how much we are outsourcing our brain activity to a phone. My friend ... navigation ... I knew casi always WTF.
-
-## Issues: am I supposed to take it to a bar, just so I can order Uber?
-
-Alcohol & expensive device.
-Don't got to bars.
+For some people these limitations would sound too impractical. But I don't need to spend more money, connect another device to a WiFi network, update it, set it up, install apps on it ... in effect I'm perfectly happy without a phone.
