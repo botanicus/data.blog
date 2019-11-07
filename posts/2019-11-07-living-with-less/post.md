@@ -38,7 +38,7 @@ I didn't try to bargain, but she asked me _"so how much can you contribute?"_. I
 
 She was so kind to agree to it. And here's the thing:
 
-	If you know your budget and are honest about it, people are understanding. But this only works if you actually have a budget.
+> If you know your budget and are honest about it, people are understanding. But this only works if you actually have a budget.
 
 ## Not being able to afford things
 
@@ -50,7 +50,7 @@ No, seriously – I know it sounds very counterintuitive, but having more option
 
 [Fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) has become such a thing, that it even has its own Wikipedia page. It says:
 
-	Fear of missing out, or FOMO, is "a pervasive apprehension that others might be having rewarding experiences from which one is absent". This social anxiety is characterized by "a desire to stay continually connected with what others are doing". FOMO is also defined as a fear of regret, which may lead to a compulsive concern that one might miss an opportunity for social interaction, a novel experience, a profitable investment, or other satisfying events. In other words, FOMO perpetuates the fear of having made the wrong decision on how to spend time since one "can imagine how things could be different".
+> Fear of missing out, or FOMO, is "a pervasive apprehension that others might be having rewarding experiences from which one is absent". This social anxiety is characterized by "a desire to stay continually connected with what others are doing". FOMO is also defined as a fear of regret, which may lead to a compulsive concern that one might miss an opportunity for social interaction, a novel experience, a profitable investment, or other satisfying events. In other words, FOMO perpetuates the fear of having made the wrong decision on how to spend time since one "can imagine how things could be different".
 
 These experiences that we don't want to miss on are oftentimes costly. That's how the fear gets to control your wallet and as a consequence your financial stability, all while it makes you feel miserable.
 
