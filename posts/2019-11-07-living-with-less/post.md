@@ -20,7 +20,7 @@ Well, no more. In the process of trying to be realistic about what I can afford 
 
 When I realized where I stand, it was a bit difficult getting used to it. But ... I kept aware that it's my decision to prefer my time (hence my further education), and that it's more important to me that blowing money in a restaurant.
 
-So I came to accept the situation. I came up with a simple, [cash-only envelope system](/my-cash-only-envelope-system) for managing my day-to-day expenses and that was it.
+So I came to accept the situation. I came up with a simple, [cash-only envelope system](/posts/my-cash-only-envelope-system) for managing my day-to-day expenses and that was it.
 
 ---
 
