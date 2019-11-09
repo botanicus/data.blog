@@ -49,10 +49,27 @@ Apart from the cash I put inside an index card where I note how much I put in (t
 
 ### Yellow envelope
 
-If there are still any money left on Sunday evening, I note how much it was on the index card and put them into the yellow envelope.
+If there still is any money left on Sunday evening, I note how much it was on the index card and put them into the yellow envelope.
+
+This money has been saved already, and therefore I use it when I need it: for expenses that are a bit higher to be covered from one week's budget and if the envelope starts to look fat, then to treat myself to whatever I fancy.
 
 ### Light blue envelope
 
 Here I keep money for the coming weeks. I like to have have few weeks in advance, among other reasons, if I'd have issues with my card, I'd like to allow time to sort these out.
 
-> You cannot spend what you don't have (on you).
+I also keep some fresh index cards here.
+
+## Keeping the track
+
+Every Sunday evening I do my financial house-keeping.
+
+1. First, I count how much money has left. I note the sum onto the index card and I move the money into the yellow envelope.
+2. I take a new index card from the light blue envelope. I note tomorrow's date and how much I'm putting it. I take the next week's budget from the light blue envelope and I put it alongside the index card into the dark blue envelope.
+3. I note how much I actually spent into my digital system. The formula is: `initial sum - sum left - sum of what I took from the yellow envelope`.
+4. I go into my bank statement and see whether I made any online purchases or whether there have been any automated purchases. I add all of these into my online system, so the sum really covers all that I spent the week.
+
+This takes me no more than 10 minutes. What I like about this system is that it deals with all the day-to-day expenses as one thing.
+
+I tried to use some apps in the past, but I didn't find them useful. Call me spoilt if you will, but spending 5 minutes to take a note of purchase of a chewing gum worth 50 cents is just not a productive use of my time.
+
+At the same time: anything the goes out of the bank account directly, whether through a card transaction or a bank transfer is an exceptional purchase and I log it into my digital system as such (for these I don't log only the total, I also log what it was). That way it's really easy to see the big picture.
