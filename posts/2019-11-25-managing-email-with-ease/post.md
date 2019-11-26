@@ -18,13 +18,12 @@ _Wait, what?_
 
 For instance if you're `joe@gmail.com`, you can also use `joe+newsletter@gmail.com`, `joe+notifications@gmail.com`, `joe+orders@gmail.com` and so on.
 
-In my case, I give my default email (one without `+whatever`) only to people, not to machines.
+In my case, _I give my default email (one without `+whatever`) only to people, not to machines_.
 
-So if I register for any app or online service, I'd always use `me+service@gmail.com`.
-
-That means that all the notification emails will get delivered to `me+service@gmail.com` and ... I filter them.
-
-
-[Gmail filters](https://mail.google.com/mail/u/0/#settings/filters)
+So if I register for any app or online service, I'd always use `me+service@gmail.com` and then in [Gmail filters](https://mail.google.com/mail/u/0/#settings/filters) I'd use this:
 
 ![gmail-filter-service.jpg](gmail-filter-service.jpg)
+
+Yeah, it's in Spanish ... it says skip the inbox, mark as read and apply the `service` label (so I can easily see all these service emails).
+
+And that's it! All that makes it into my inbox is email I actually care about.
