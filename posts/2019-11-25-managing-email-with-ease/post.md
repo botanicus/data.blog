@@ -12,7 +12,9 @@ _Email can be a giant pain in the arse. Some months ago I came up with a simple 
 
 First and foremost, it's important to filter personal email from mass email, such as notifications, newsletters and the like.
 
-How? Gmail has this lovely feature that allows you to add `+anything` after your username and it will still get delivered to your inbox.
+How? Gmail has this lovely feature that allows you to add `+anything` after your username and it will still get delivered to your inbox. And with Gmail filters, you can execute actions over matching emails, such as marking them as read and skipping the inbox.
+
+_Wait, what?_
 
 For instance if you're `joe@gmail.com`, you can also use `joe+newsletter@gmail.com`, `joe+notifications@gmail.com`, `joe+orders@gmail.com` and so on.
 
