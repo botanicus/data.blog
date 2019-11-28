@@ -22,3 +22,10 @@ My Telegram is [@jakubstastny](https://t.me/jakubstastny).
 
 ## And for a contact book?
 
+I like to synchronise my contacts to Gmail. That means I have all my contacts available and I'm not necessarily locked into Apple solutions.
+
+Fortunately on iPadOS this is very easy to do:
+
+![74FA4BC8-C81C-4CB8-BC8A-0D48D828835E.jpeg](74FA4BC8-C81C-4CB8-BC8A-0D48D828835E.jpeg)
+
+![9041389A-9F3F-44BB-9C6B-3466047284CF.jpeg](9041389A-9F3F-44BB-9C6B-3466047284CF.jpeg)
