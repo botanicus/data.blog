@@ -19,3 +19,6 @@ I don't care to hear what I might be "missing on". I'm not missing on anything. 
 I'm trying to use email for now. Telegram also looks good and since the team behind it seems to have some morals, unlike big Mark, I'm going to give it a go as well.
 
 My Telegram is [@jakubstastny](https://t.me/jakubstastny).
+
+## And for a contact book?
+
