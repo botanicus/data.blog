@@ -4,7 +4,7 @@ tags:
 - deep diving
 - ego death
 - meditation
-- spiritual
+- spirituality
 - healing
 date: 2019-10-23 14:20:03.881581365 +00:00
 
