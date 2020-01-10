@@ -7,7 +7,7 @@ date: 2020-01-10 20:40:03.834180107 +00:00
 
 # Start from zero
 
-_In my last post [meaning over goals](/posts/meaning-over-goals) I suggested goals are meaningless and that we should just flow. This is by no means intuitive. Let's dig into how to do just that._
+_In my last post I suggested goals are meaningless and that we should just flow. This is by no means intuitive. Let's dig into how to do just that._
 
 It's so easy to be distracted these days. Work, traffic, hobbies, kids, social networks, email, never in history there have been so many information around.
 
