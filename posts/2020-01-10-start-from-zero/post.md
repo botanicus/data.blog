@@ -1,5 +1,6 @@
 tags:
 - flow
+- mindfulness
 date: 2020-01-10 20:40:03.834180107 +00:00
 
 ---
@@ -7,7 +8,7 @@ date: 2020-01-10 20:40:03.834180107 +00:00
 
 # Start from zero
 
-_In my last post I suggested goals are meaningless and that we should just flow. This is by no means intuitive. Let's dig into how to do just that._
+_In my last post I suggested goals are meaningless and that we should just flow. This is by no means intuitive. Let's dig into how to do that._
 
 It's so easy to be distracted these days. Work, traffic, hobbies, kids, social networks, email, never in history there have been so many information around.
 
@@ -27,15 +28,17 @@ I finished the article saying that we should _just flow_ – but how?
 
 If you ate so much cake you're sick, maybe ... eat less cake?
 
-What matters to you in your life? Sure, reading FB can be fun, but then are you having time doing the things that you really want to do, that are important to you, what you want to be your contribution to the humanity?
+What matters to you in your life? Sure, reading FB can be fun, but then are you having time to _do_ the things that you really want to do, that are important to you, what you want to be your contribution to the humanity?
+
+_Getting all absorbed in consumption means we've got no time left for to create._
 
 It's easy to say _"oh, I'm just reading FB now, but I'll get to it in a bit"_. Of course no one believes that.
 
-Are you gonna make yourself useful or what?
+So ... are you gonna make yourself useful or what?
 
-I strongly recommend you adhering to your own version of [digital minimalism](/posts/digital-minimalism), removing all the distractions, so you can concentrate on what matters.
+I strongly recommend adhering to your own version of [digital minimalism](/posts/digital-minimalism), removing all the distractions, so you can concentrate on what really matters.
 
-I even [ditched FB](/posts/bye-bye-facebook) and I don't regret it, in fact I'd definitely recommend it, but of course that might be too much for many people.
+Personally I even [ditched FB](/posts/bye-bye-facebook) and I don't regret it at all, in fact I'd definitely recommend it, but of course that might be too much for many people.
 
 ## Taking care of yourself <i class="hashtag">meditation</i> <i class="hashtag">exercise</i>
 
