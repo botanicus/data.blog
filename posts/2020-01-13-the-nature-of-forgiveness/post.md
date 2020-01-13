@@ -12,4 +12,4 @@ date: 2020-01-13 16:00:03.768051102 +00:00
 
 _Great video by Eckhart Tolle_
 
-<Video src="https://www.youtube.com/watch?v=D9XHKqn22HY" />
+<YouTube src="https://www.youtube.com/watch?v=D9XHKqn22HY" />
