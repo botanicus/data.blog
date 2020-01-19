@@ -1,5 +1,7 @@
 tags:
 - now
+- spirituality
+- depression
 - TCM
 date: 2020-01-19 13:40:03.417778778 +00:00
 
@@ -13,21 +15,27 @@ _Starting second career, going to therapy, fighting phlegm with TCM, learning to
 
 ## Starting second career
 
-Since July of last year, I've been noticing that I can _see beyond_ and do things in the spiritual realm that not everyone can.
+Since July of last year, I've been noticing that I can _see beyond_ and do things in the spiritual realm that not everyone was gifted with.
 
-I've been getting _visions_ that came true, performed _deep healing_ and was being able to _help people_ as a result of my insight into their lives.
+I've been getting _visions_ that came true, was able to _know_ if something was happening to people close to me, performed _deep healing_ and was being able to _help people_ as a result of my insight into their lives.
 
 The last bit is what I want to concentrate on and I'm currently in the process of transition from IT to giving therapy and spiritual guidance.
 
-Just like with my first career, I have no intention of going to school, which I consider a waste of time.
-
-I enjoy learning on my own. Besides, this is much more about wisdom and insight, which is something one cannot learn at school.
+Just like with my first career, I have no intention of going to school, which I consider a waste of time. I enjoy learning on my own. Besides, this is much more about _wisdom and insight_, which is something one cannot learn at school.
 
 I want my service to be available to everyone rather than optimising for my economic situation. This will certainly impact my economic situation, so I'm already learning to live more on budget.
 
 ## Going to therapy
 
-.....
+In July of last year I started to see an _"old wise woman"_ called Marisela to help me make sense of all the spiritual things that started to happen at that time, as well as to help me deal with depression from which I've always been suffering.
+
+I don't know how are other therapists, but I have the impression that Marisela is quite different. For starters her spiritual understanding is very deep and she has many spiritual abilities herself, getting visions, connecting to people and being able to feel if something is happening to them at that moment etc.
+
+Having some 50 years of experience in the field, she has a vast knowledge of many disciplines, but she's basing her work mostly on the systemic psychology and family constellations.
+
+Systemic psychology doesn't agree with our western individualistic view, that we are independent units, but rather interprets our conditions in the net of relationships, primarily relationships in the family.
+
+It's not a hard science, it's more of a belief system, but from my experience it works, and once we get an insight into _the unity of everything_, it just makes sense.
 
 ## Fighting phlegm
 
