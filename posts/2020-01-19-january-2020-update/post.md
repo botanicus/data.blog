@@ -2,7 +2,10 @@ tags:
 - now
 - spirituality
 - depression
+- therapy
+- systemic therapy
 - TCM
+- God
 date: 2020-01-19 13:40:03.417778778 +00:00
 
 ---
@@ -31,9 +34,9 @@ In July of last year I started to see an _"old wise woman"_ called Marisela to h
 
 I don't know how are other therapists, but I have the impression that Marisela is quite different. For starters her spiritual understanding is very deep and she has many spiritual abilities herself, getting visions, connecting to people and being able to feel if something is happening to them at that moment etc.
 
-Having some 50 years of experience in the field, she has a vast knowledge of many disciplines, but she's basing her work mostly on the systemic psychology and family constellations.
+Having some 50 years of experience in the field, she has a vast knowledge of many related disciplines, but she's basing her work mostly on the systemic therapy and family constellations.
 
-Systemic psychology doesn't agree with our western individualistic view, that we are independent units, but rather interprets our conditions in the net of relationships, primarily relationships in the family.
+Systemic therapy doesn't agree with our western individualistic view, that we are independent units, but rather interprets our conditions in the net of our relationships, primarily relationships in the family.
 
 It's not a hard science, it's more of a belief system, but from my experience it works, and once we get an insight into _the unity of everything_, it just makes sense.
 
@@ -41,24 +44,24 @@ It's not a hard science, it's more of a belief system, but from my experience it
 
 For the past 2 years my digestion system was regularly upset, until finally I learnt a bit about <abbr title="Traditional Chinese medicine">TCM</abbr>, adjusted my diet, and this problem stopped.
 
-It ain't finished still, and I've been having issues with too much phlegm. Currently, touch wood, this doesn't cause any more issues, but it's a sign of misbalance, and I'm trying to eliminate it.
+It ain't finished still, and I've been having issues with too much phlegm. Currently – touch wood – this doesn't cause any more issues, but it's a sign of misbalance, and I'm trying to eliminate it.
 
 Since I have _yang deficiency_, I bought small thermos that I always have on me and I try to drink hot ginger tea as much as I can. (Hot drinks are more yang and ginger as well.) I'm trying to eat yang foods in general and avoid yin foods as much as reasonably possible.
 
-I found TCM fascinating, it's a very accessible knowledge, anyone can manage to learn the basics and benefit.
+I found TCM fascinating. It's a very accessible theory, anyone can manage to learn the basics and benefit.
 
 ## Tuning into the "God's embrace"
 
-Every time I do anything spiritual, I tune into a special space, where I'm very quiet. Just like in meditation, but the difference is that in meditation, at least the way I practice it, there's emptiness. In this state, there is _Light_ and _Love_.
+Every time I do anything spiritual, I tune into a special space, where I'm very quiet. Just like in meditation, but the difference is that in meditation, at least the way I practice it, there's _emptiness_. In this state, there is _Light_ and _Love_.
 
-My spiritual guide calls it being embraced by God.
+Marisela, my spiritual guide, calls it _being embraced by God_.
 
-Since I know how it's supposed to feel, I decided to recreate this state in meditation, to change my meditation practice, as I found this still working as a meditation, as in noticing thoughts and all that, but at same time being ultimately more beautiful and enjoyable.
+Since I know how it's supposed to feel, I decided to recreate this state in meditation, to change my meditation practice, as I found this still working as meditation, as in noticing thoughts and all that, but at same time being ultimately more beautiful and enjoyable.
 
 Since doing healing is what tunes me into this space, I often start meditation with some self-healing to help me with that.
 
 ## Improving the blog
 
-I know no one really reads the blog, but I really don't care. I write it for me and I really enjoy it, I always loved writing.
+I know no one really reads this damn thing, but I really don't care. I write it for myself and I really enjoy it, I always loved writing.
 
 I'm making many improvements to make the app more usable, simpler and more performant.
