@@ -1,12 +1,12 @@
+lang: es
 tags:
 - language learning
 - vocabulary inbox
-date: 2019-07-10 16:00:04.238337092 +00:00
+date: 2019-07-09 16:00:04.238337092 +00:00
 
 ---
 
-
-# How I learn languages
+# Cómo aprendo idiomas
 
 _I was always appalled and bored to death at the same time by the way languages are being taught in school. There is no wonder that many people cannot use language they spent years learning in a school. But as much as learning language is always hard, if you do it smart, you can be fluent in a few months._
 

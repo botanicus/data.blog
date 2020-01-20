@@ -7,7 +7,7 @@ date: 2020-01-10 20:40:03.834180107 +00:00
 ---
 
 
-# Start from zero
+# Empieza de cero
 
 _In my last post I suggested goals are meaningless and that we should just flow. This is by no means intuitive. Let's dig into how to do that._
 

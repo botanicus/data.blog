@@ -11,15 +11,13 @@ date: 2020-01-19 13:40:03.417778778 +00:00
 
 ---
 
-
-
 # January 2020 update
 
 _Starting second career, going to therapy, fighting phlegm with TCM, learning to tune into "God's embrace" and improving the blog._
 
 ## Starting second career
 
-XSince July of last year, I've been noticing that I can _see beyond_ and do things in the spiritual realm that not everyone was gifted with.
+Since July of last year, I've been noticing that I can _see beyond_ and do things in the spiritual realm that not everyone was gifted with.
 
 I've been getting _visions_ that came true, was able to _know_ if something was happening to people close to me, performed _deep healing_ and was being able to _help people_ as a result of my insight into their lives.
 

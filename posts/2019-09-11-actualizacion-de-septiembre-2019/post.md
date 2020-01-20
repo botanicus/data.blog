@@ -1,3 +1,4 @@
+lang: es
 tags:
 - now
 - Ruby on Rails
@@ -9,8 +10,7 @@ date: 2019-09-11 14:00:06.435930482 +00:00
 
 ---
 
-
-# September 2019 update
+# Actualización de septiembre 2019
 
 _I worked a lot for the past 2 months and I'm quite exhausted. I'm planning a retreat to relax and recover and to do some traveling._
 
