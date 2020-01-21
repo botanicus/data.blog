@@ -1,6 +1,6 @@
 lang: es
 tags:
-- now
+- ahora
 - spirituality
 - depression
 - Marisela

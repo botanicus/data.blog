@@ -1,6 +1,6 @@
 lang: es
 tags:
-- now
+- ahora
 - iPadOS
 - my blog engine
 date: 2019-07-17 22:20:03.976073432 +00:00

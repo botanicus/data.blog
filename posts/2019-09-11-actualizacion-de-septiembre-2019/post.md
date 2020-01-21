@@ -1,6 +1,6 @@
 lang: es
 tags:
-- now
+- ahora
 - Ruby on Rails
 - React.js
 - Draft.js

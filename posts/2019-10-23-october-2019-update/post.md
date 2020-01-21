@@ -1,5 +1,5 @@
 tags:
-- now
+- ahora
 - diving
 - deep diving
 - ego death

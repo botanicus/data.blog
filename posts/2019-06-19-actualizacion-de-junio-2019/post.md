@@ -1,7 +1,7 @@
 lang: es
 date: 2019-06-19T01:42:16.320Z
 tags:
-  - now
+  - ahora
   - Oura ring
   - health
   - my blog engine
