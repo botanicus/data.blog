@@ -1,15 +1,16 @@
 lang: es
 tags:
-  - social critique
-  - capitalism
-  - consumerism
-  - advertising
+  - crítica social
+  - capitalismo
+  - consumismo
+  - publicidad
 date: 2019-06-18T06:32:40.789Z
 
 ---
 
 # Porque no quiero que pases más tiempo en mi blog
 
+_Mi amigo dice que el tráfico es 
 _My friend says that traffic is the new oil. These days everything is about engagement, KPIs, ad links clicked, and so on. This is then used for such a noble purposes as persuading people to vote for Brexit or consume more alcohol. And if neither of these, then at least to increase consumerism. I don't think it's right._
 
 I remember the beginnings of the web. The ridiculous noise of model dialing that woke up the whole block; speeds so low, that it took good 5 minutes to download a low resolution picture of a naked girl and also the beginnings of blogs.

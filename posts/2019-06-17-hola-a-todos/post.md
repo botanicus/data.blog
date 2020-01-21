@@ -5,16 +5,16 @@ date: 2019-06-17 22:21:00
 
 # ¡Hola a todos!
 
-_The first blog post. Short one, more of a note on my relationship to writing._
+_Esto es la primera entrada. Una corta, nada más para explicar de que se trata este blog._
 
-I always found writing deeply satisfying. My first job was technical writing and I went on doing so on and off throughout my career.
+Siempre me gustaba escribir. Mi primer trabajo era escritor técnico y durante toda mi carera en informática lo hacía.
 
-Still, ever since I switched to English 🇬🇧 as my main language, my writing never felt to me as refined as I would've hoped.
+Cuando cambié a inglés 🇬🇧 como mi idioma principal, ya mi redacción nunca se sentía tan refinada como me gustaría.
 
-Then I added Spanish into the mix, which after I moved to Mexico 🇲🇽 came to be the language I speak the most and so my attention between languages has been diluted even further.
+Después aprendí español y cuando me mudé a México 🇲🇽, español se convirtió en el idioma que más uso estos días y con esto, mi atención se ha diluido aún más.
 
-And to complicate things further, I realized that speaking my very own mother tongue, Czech 🇨🇿, actually doesn't come out as fluid and natural as it used to either.
+Para complicar las cosas todavía más, me di cuenta que ya me cuesta hablar checo 🇨🇿, que es mi idioma materno, y que ya no me fluye tan naturalmente como fluía antes.
 
-So here I have it. Jack of all trades, master of none.
+Pues acá voy. Aprendiz de todo maestro de nada.
 
-I hope to improve that by writing regularly.
+Espero mejorar por escribir con frecuencia.
