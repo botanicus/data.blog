@@ -10,14 +10,15 @@ date: 2019-06-18T06:32:40.789Z
 
 # Porque no quiero que pases más tiempo en mi blog
 
-_Mi amigo dice que el tráfico es 
-_My friend says that traffic is the new oil. These days everything is about engagement, KPIs, ad links clicked, and so on. This is then used for such a noble purposes as persuading people to vote for Brexit or consume more alcohol. And if neither of these, then at least to increase consumerism. I don't think it's right._
+_Mi amigo dice que el tráfico es el nuevo petróleo. Estos días todo se trata de involucramiento, los <abbr title="Key performance indicator, indicador clave de rendimiento"> KPIs</abbr>, enlaces visitados de anuncios etcétera. Esto se usa para objetivos tan nobles como convencer a la gente que vote para Brexit o beba más alcohol. Y si por nada de estos, por lo menos para subir el consumismo. No me parece bien._
 
-I remember the beginnings of the web. The ridiculous noise of model dialing that woke up the whole block; speeds so low, that it took good 5 minutes to download a low resolution picture of a naked girl and also the beginnings of blogs.
+Recuerdo los primeros días del web. El sonido ridículo del módem que podría despertar toda la cuadra; velocidades tan bajas que tomó unos buenos 5 minutos para descargar una imagen de chica desnuda en baja resolución y también, el comienzo de los blogs.
 
-Back then blogging wasn't done as a profession. It wasn't done for profit. _It was done by people who were excited that they got their voice in the world._
+En estos días escribir un blog no era una profesión. No se hacía para ganar dinero. _Lo hacía gente que era emocionada para tener su voz en el mundo._
 
-_Executing the right of free speech_ on a scale that was unthinkable for a normal person of standard means before.
+_Ejecutando el derecho de la libertad de expresión_ en una escala tan grande, que para una persona corriente era impensable antes.
+
+El web tenía su personalidad. Todos los escritores eran diferentes y hablaban libremente de lo que se les pegaba la gana. Era un arte
 
 The web had its personality. Every writer was different and was talking freely about whatever he wanted. It was art of itself and as much as many bloggers were addicted to following their Google Analytics dashboard, the answer to what to do to have more readers was simple: _keep writing, improve your writing style and refine your message._
 
