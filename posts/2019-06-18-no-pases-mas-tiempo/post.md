@@ -18,13 +18,13 @@ En estos días escribir un blog no era una profesión. No se hacía para ganar d
 
 _Ejecutando el derecho de la libertad de expresión_ en una escala tan grande, que para una persona corriente era impensable antes.
 
-El web tenía su personalidad. Todos los escritores eran diferentes y hablaban libremente de lo que se les pegaba la gana. Era un arte
+El web tenía su personalidad. Todos los escritores eran diferentes y hablaban libremente de lo que se les pegaba la gana. Era un arte y a pesar de que muchos de los escritores estaban adictos a seguir su tablero de Google Analytics, la respuesta de qué hacer para tener más lectores era fácil: _sigue escribiendo, mejora tu estilo y refina tu mensaje._
 
-The web had its personality. Every writer was different and was talking freely about whatever he wanted. It was art of itself and as much as many bloggers were addicted to following their Google Analytics dashboard, the answer to what to do to have more readers was simple: _keep writing, improve your writing style and refine your message._
-
-There were very few articles like _"6 reasons to be addicted to blog title generator"_, _"I migrated my blog away from Medium. Find out why."_ and so on.
+Habían muy pocas entradas como _"6 razones para estar adicto al generador de los títulos de las entradas de blog"_, _"_Acabo de migrar mi blog de Medium. Descubre porque._" etcétera.
 
 ---
+
+[CONTINUE HERE]
 
 Fast-forward 20 years and the picture is quite different. _Searching through Google is like digging through a rubbish bin._ Some things might look somewhat edible, but ultimately most of it is just rotten.
 
