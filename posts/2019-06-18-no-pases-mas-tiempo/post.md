@@ -24,7 +24,7 @@ Habían muy pocas entradas como _"6 razones para estar adicto al generador de lo
 
 ---
 
-[CONTINUE HERE]
+Adelanta 20 años y la imagen es bien diferente. _Buscando a través de Google es como 
 
 Fast-forward 20 years and the picture is quite different. _Searching through Google is like digging through a rubbish bin._ Some things might look somewhat edible, but ultimately most of it is just rotten.
 
