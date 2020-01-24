@@ -24,18 +24,17 @@ Habían muy pocas entradas como _"6 razones para estar adicto al generador de lo
 
 ---
 
-Adelanta 20 años y la imagen es bien diferente. _Buscando a través de Google es como 
+Adelanta 20 años y la imagen es bien diferente. _Buscando a través de Google es como cavar en un bote de basura._ Unas cosas pueden parecer comestible, pero al fin y al cabo la gran mayoridad es podrida.
 
-Fast-forward 20 years and the picture is quite different. _Searching through Google is like digging through a rubbish bin._ Some things might look somewhat edible, but ultimately most of it is just rotten.
+No digo que nadie escribe _principalmente_ para expresión personal, pero sí, digo que esta gente recibe mucha menos visibilidad estos días, porque a esta gente no le preocupa <abbr title="Search engine optimization, optimización en motores de búsqueda">SEO</abbr> (ni saben mucho de esto) y así no pueden competir con blogs profesionales que tienen una empresa y equipo de gente trabajando a tiempo completo detrás.
 
-I'm not saying no one is blogging _primarily_ for personal expression, but I'm saying that these people get much less visibility these days, since these people generally care (and know) very little about <abbr title="Search engine optimization">SEO</abbr> and they simply cannot compete with professional blogs that are backed by a whole team of people.
+En general me parece que el blogging aficionado sin metas de negocio no es la moda como era antes.
 
-And I generally think amateur blogging without _dominating_ business agenda became much less of a thing that it used to be.
+La otra cosa es **el grado de la autocensure** la gente usa estos días. Cuando los blogs acabaron de surgir, casi nadie estaba pensando que decir algo estúpido en línea podría arruinar su carera.
 
-The other thing is the **extent of self-censorship** people employ these days. When blogs just emerged, barely anyone was thinking about the posibility that saying something silly online could ruin one's career.
+Esto ya no es así y mucha gente es muy cuidadosa discutiendo sus opiniones en línea.
 
-This is no longer the case and many people are really cautious discussing their opinions online.
-
+Y bueno, lo entiendo. Estas cosas son reales, sin duda. Pero viviendo
 And OK, I get it. These things are real, there is no doubt about it. But _living life based in fears is dumb and boring way to live_, fullstop.
 
 Web sold out its soul and got handsomely paid.
