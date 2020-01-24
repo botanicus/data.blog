@@ -34,22 +34,20 @@ La otra cosa es **el grado de la autocensure** la gente usa estos días. Cuando 
 
 Esto ya no es así y mucha gente es muy cuidadosa discutiendo sus opiniones en línea.
 
-Y bueno, lo entiendo. Estas cosas son reales, sin duda. Pero viviendo
-And OK, I get it. These things are real, there is no doubt about it. But _living life based in fears is dumb and boring way to live_, fullstop.
+Y bueno, lo entiendo. Estas cosas son reales, sin duda. Pero _dejar el miedo manejar la vida es estúpido y una manera muy aburrida de vivir_, punto.
 
-Web sold out its soul and got handsomely paid.
+El web vendió su alma y recibió mucha lana por esto.
 
-But I'm not doing it. There are not going to be ads or posts that "you might also enjoy" full of rubbish.
+¡Pero yo no lo haré maldita sea! No tendré pinches anuncios o entradas que "quizá también le gustaría" llenas de basura.
 
-In the <abbr title="Open-source software">OSS</abbr> community, we learned that openness does pay off. Many tools are open and free to use and everyone benefits.
+En la comunidad de software libre (<abbr title="Open-source software">OSS</abbr>) aprendimos que estar abierto vale la pena. Muchas herramientas son gratis y los códigos son libre para usar y toda la comunidad beneficia.
 
 ---
 
-So in times when shady social networks are routinely used to [spreading dangerous propaganda][ted-on-brexit] with the most serious consequences, we need more people that brings their hearts and souls into writing.
+Entonces en tiempos cuando asquerosas redes sociales se usan rutinariamente para [difundir propaganda peligrosa][ted-on-brexit] con las consecuencias más graves, necesitamos más gente que traiga sus corazones y almas a la conversación.
 
-People who won't write in favor of the highest bidder, but will speak their truth rather than what's expected and politically correct.
+Gente que no escribe en favor de postor más alto, pero hablan su verdad en lugar de lo que sea esperado o sea políticamente correcto.
 
-The best things in life are free.
-
+Las mejores cosas en la vida son gratis.
 
 [ted-on-brexit]: https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy

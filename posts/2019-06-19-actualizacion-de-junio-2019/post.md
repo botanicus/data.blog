@@ -2,16 +2,17 @@ lang: es
 date: 2019-06-19T01:42:16.320Z
 tags:
   - ahora
-  - Oura ring
-  - health
-  - my blog engine
-  - OSS
-  - life values
+  - anillo Oura
+  - salud
+  - mi motor de blog
+  - software libre
+  - valores de vida
 
 ---
 
 # Actualización de junio 2019
 
+_Este mes estoy trabajando en mi motor de blog y el pipeline de la publicación. Estoy buscando trabajo de contrato en programació
 _This month I'm working on my blog and publishing pipeline. I'm looking for contract programming work. I'm experimenting with Oura ring to improve my sleep and I'm trying to live healthier._
 
 ## This blog <i class="hashtag">IT</i>
