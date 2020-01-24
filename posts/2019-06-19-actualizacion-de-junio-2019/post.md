@@ -30,10 +30,9 @@ Me marché de TopTal porque no estaba contento con los cambios allí en los últ
 
 Por esto, estoy buscando trabajo freelance. Hago **Ruby**, **Ruby on Rails**, **JavaScript** y **React.js**.
 
-Si te interesa, por favor 
-If you might be interested, please check my [about page](/about), contact info is in there.
+Si te interesa, por favor <Email subject="Trabajo freelance">escríbeme</Email>.
 
-## Oura ring <i class="hashtag">health</i> <i class="hashtag">tracking</i>
+## Anillo Oura <i class="hashtag">salud</i>
 
 As an ongoing effort to live healthier, I got the [Oura ring][oura-ring] tracker to track my sleep and activity.
 
