@@ -12,25 +12,25 @@ tags:
 
 # Actualización de junio 2019
 
-_Este mes estoy trabajando en mi motor de blog y el pipeline de la publicación. Estoy buscando trabajo de contrato en programació
-_This month I'm working on my blog and publishing pipeline. I'm looking for contract programming work. I'm experimenting with Oura ring to improve my sleep and I'm trying to live healthier._
+_Este mes estoy trabajando en mi motor de blog y el pipeline de la publicación. Estoy buscando trabajo de contrato en programación. Estoy experimentando con anillo Oura para mejorar mi sueño y estoy probando a vivir más sano._
 
-## This blog <i class="hashtag">IT</i>
+## Este blog <i class="hashtag">TI</i>
 
-I have a lot of work launching this blog. For that purpose I published:
+Tengo mucho trabajo con el lanzamiento de este blog. Hice público:
 
-- A [blog front-end engine][gh-blog-engine] in React.js.
-- A [blog content compiler][gh-blog-generator] that allows me to write posts in markdown format and returns JSON files that then the front-end engine consumes.
-- Repozitory with [my blog posts][gh-data-blog] that includes both the markdown posts I've written and the generated JSON files. The JSON files get compiled on Travis CI.
+- Un [motor front-end de blog][gh-blog-engine] en React.js.
+- Un [compilator de entradas de blog][gh-blog-generator] que me permite escribir mis entradas en formato markdown y da archivos JSON, que el motor front-end consume.
+- Depósito con [mis entradas][gh-data-blog] que lleva ambos los JSON generado y las entradas originales que escribí. <!--The JSON files get compiled on Travis CI. not true at the moment -->
 
-_All these projects are available as open-source software, free for anyone to use. Visit the links the see the project pages on GitHub. Contributions welcomed._
+_Todos estos proyectos son disponible como software de código abierto, libre y gratis para todos. Ve los enlaces para ver las páginas del proyecto en GitHub._ <!-- Contributions welcomed. -->
 
-## Looking for freelance work <i class="hashtag">IT</i>
+## Buscando trabajo freelance <i class="hashtag">TI</i>
 
-I left TopTal after 5 years due to being disatisfied with the changes in there in the last 2 years.
+Me marché de TopTal porque no estaba contento con los cambios allí en los últimos 2 años.
 
-Because of that, I'm on a look out for freelance work. Anything in **Ruby**, **Ruby on Rails**, **JavaScript** and **React.js**.
+Por esto, estoy buscando trabajo freelance. Hago **Ruby**, **Ruby on Rails**, **JavaScript** y **React.js**.
 
+Si te interesa, por favor 
 If you might be interested, please check my [about page](/about), contact info is in there.
 
 ## Oura ring <i class="hashtag">health</i> <i class="hashtag">tracking</i>

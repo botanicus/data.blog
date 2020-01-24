@@ -20,7 +20,7 @@ _Ejecutando el derecho de la libertad de expresión_ en una escala tan grande, q
 
 El web tenía su personalidad. Todos los escritores eran diferentes y hablaban libremente de lo que se les pegaba la gana. Era un arte y a pesar de que muchos de los escritores estaban adictos a seguir su tablero de Google Analytics, la respuesta de qué hacer para tener más lectores era fácil: _sigue escribiendo, mejora tu estilo y refina tu mensaje._
 
-Habían muy pocas entradas como _"6 razones para estar adicto al generador de los títulos de las entradas de blog"_, _"_Acabo de migrar mi blog de Medium. Descubre porque._" etcétera.
+Habían muy pocas entradas como _"6 razones para estar adicto al generador de los títulos de las entradas de blog"_, _"Acabo de migrar mi blog de Medium. Descubre porque."_ etcétera.
 
 ---
 
