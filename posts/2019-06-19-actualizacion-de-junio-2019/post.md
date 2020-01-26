@@ -54,8 +54,7 @@ Los datos parecen útiles, pero todavía lo nada más estoy probando, vamos a ve
 
 Durante mis años 20s, siempre estaba listo para la fiesta y mis prioridades se trataron mucho de pasarlo bien, hacer cosas estúpidas (a menudo pedo) y viajar.
 
-Many times it was great and many times it wasn't. It was necessary and I learned a lot. Now passing to my 30s, I feel ready to turn the page and concentrate on more lasting things.
-
+Muchas veces estaba chido y muchas veces no. Lo necesitaba y había aprendido mucho. Ahora pasando a mis 30s, siento listo para pasar página y concentrarme a cosas más duraderas.
 
 [gh-blog-engine]: https://github.com/botanicus/blog
 [gh-blog-generator]: https://github.com/botanicus/blog-generator.js
