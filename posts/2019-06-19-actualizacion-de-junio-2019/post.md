@@ -34,12 +34,13 @@ Si te interesa, por favor <Email subject="Trabajo freelance">escríbeme</Email>.
 
 ## Anillo Oura <i class="hashtag">salud</i>
 
-As an ongoing effort to live healthier, I got the [Oura ring][oura-ring] tracker to track my sleep and activity.
+As a parte del esfuerzo vivir más sano, compré [anillo Oura][oura-ring] para medir mi sueño y actividad.
 
-It also tracks naps (automatically) and meditation.
+El anillo sabe rastrear siestas (automáticamente) y meditación.
 
-Being a diehard minimalist, I was very hesitant to get anything I'd have to wear on my body, but my sleep wasn't great lately and a ring is something even I can accept.
+Como una persona minimalista, estaba muy vacilante comprar algo que tenga que llevar en mi cuerpo, pero mi sueño estaba de la chingada recientemente y algo tan pequeño como un anillo hasta yo puedo aceptar.
 
+Los datos parecen útiles, pero todavía
 The data seems to be useful, but I'm still in the testing phase, so the jury is still out.
 
 ## Health
