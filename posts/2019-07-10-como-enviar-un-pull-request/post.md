@@ -1,7 +1,7 @@
 lang: es
 tags:
-- my blog engine
-- OSS
+- mi motor de blog
+- código abierto
 date: 2019-07-10 01:20:03.829830919 +00:00
 
 ---

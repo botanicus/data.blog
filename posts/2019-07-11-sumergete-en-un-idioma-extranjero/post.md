@@ -1,6 +1,6 @@
 lang: es
 tags:
-- language learning
+- aprendiendo idiomas
 date: 2019-07-11 19:20:03.833297116 +00:00
 
 ---

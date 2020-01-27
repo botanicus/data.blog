@@ -1,7 +1,7 @@
 lang: es
 tags:
-- language learning
-- vocabulary inbox
+- aprendiendo idiomas
+- bandeja de entrada de vocabulario
 date: 2019-07-09 16:00:04.238337092 +00:00
 
 ---

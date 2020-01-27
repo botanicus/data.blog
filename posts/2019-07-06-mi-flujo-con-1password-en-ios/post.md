@@ -1,6 +1,6 @@
 tags:
 - iPad Pro
-- password management
+- manejo de contraseñas
 - 1Password
 date: 2019-07-06 22:42:33.229122078 +00:00
 

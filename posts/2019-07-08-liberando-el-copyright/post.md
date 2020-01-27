@@ -1,7 +1,7 @@
 lang: es
 tags:
 - uncopyright
-- license
+- licencia
 - copyright
 date: 2019-07-08 00:40:05.739129317 +00:00
 
