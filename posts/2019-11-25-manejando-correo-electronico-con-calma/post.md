@@ -1,7 +1,7 @@
 lang: es
 tags:
 - Gmail
-- email
+- correo electrónico
 date: 2019-11-25 20:20:04.177134521 +00:00
 
 ---

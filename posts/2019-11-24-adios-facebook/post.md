@@ -1,7 +1,7 @@
 lang: es
 tags:
-- social network
-- minimalism
+- red social
+- minimalismo
 date: 2019-11-24 18:40:03.975857889 +00:00
 
 ---

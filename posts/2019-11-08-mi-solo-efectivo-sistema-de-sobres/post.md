@@ -1,8 +1,8 @@
 lang: es
 tags:
-- finance planning
-- finance
-- minimalism
+- planificación de las finanzas
+- finanzas
+- minimalismo
 date: 2019-11-08 23:20:03.810321377 +00:00
 
 ---

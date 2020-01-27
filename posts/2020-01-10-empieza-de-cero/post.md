@@ -1,6 +1,6 @@
 lang: es
 tags:
-- flow
+- flujo
 - mindfulness
 date: 2020-01-10 20:40:03.834180107 +00:00
 

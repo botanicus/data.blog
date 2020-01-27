@@ -1,13 +1,13 @@
 lang: es
 tags:
 - ahora
-- spirituality
-- depression
+- espiritualidad
+- depresión
 - Marisela
-- therapy
-- systemic therapy
+- terapia
+- terapia sistémica
 - TCM
-- God
+- Dios
 date: 2020-01-19 13:40:03.417778778 +00:00 
 
 ---

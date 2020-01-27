@@ -4,8 +4,8 @@ tags:
 - Ruby on Rails
 - React.js
 - Draft.js
-- spirituality
-- retreat
+- espiritualidad
+- retiro
 date: 2019-09-11 14:00:06.435930482 +00:00
 
 ---

@@ -1,9 +1,9 @@
 lang: es
 tags:
-- meaning
-- goals
-- flow
-- new year's resolutions
+- propósito
+- metas
+- flujo
+- resoluciones de año nuevo
 date: 2020-01-09 23:54:27.887444900 +00:00
 
 ---

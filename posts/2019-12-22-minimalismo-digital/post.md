@@ -1,6 +1,6 @@
 lang: es
 tags:
-- minimalism
+- minimalismo
 date: 2019-12-22 03:40:05.869284924 +00:00
 
 ---

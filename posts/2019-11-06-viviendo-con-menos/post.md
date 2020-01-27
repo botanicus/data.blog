@@ -1,7 +1,7 @@
 lang: es
 tags:
-- minimalism
-- finance
+- minimalismo
+- finanzas
 date: 2019-11-06 17:40:04.467024736 +00:00
 
 ---

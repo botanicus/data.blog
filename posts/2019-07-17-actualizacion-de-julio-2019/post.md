@@ -2,7 +2,7 @@ lang: es
 tags:
 - ahora
 - iPadOS
-- my blog engine
+- mi motor de blog
 date: 2019-07-17 22:20:03.976073432 +00:00
 
 ---

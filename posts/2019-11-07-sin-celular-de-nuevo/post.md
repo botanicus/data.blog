@@ -1,8 +1,8 @@
 lang: es
 
 tags:
-- minimalism
-- low-tech lifestyle
+- minimalismo
+- vida sin tecnología
 date: 2019-11-07 18:00:04.450449430 +00:00
 
 ---

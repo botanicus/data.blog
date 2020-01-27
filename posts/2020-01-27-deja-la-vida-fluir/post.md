@@ -1,6 +1,7 @@
+lang: es
 tags:
-- flow
-- duality
+- flujo
+- dualidad
 date: 2020-01-27 19:00:04.066241628 +00:00
 
 ---

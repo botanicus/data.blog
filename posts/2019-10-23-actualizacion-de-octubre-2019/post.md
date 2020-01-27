@@ -1,12 +1,12 @@
 lang: es
 tags:
-- now
-- diving
-- deep diving
-- ego death
-- meditation
-- spirituality
-- healing
+- ahora
+- buceo
+- buceo profundo
+- muerte del ego
+- meditación
+- espiritualidad
+- sanación
 date: 2019-10-23 14:20:03.881581365 +00:00
 
 ---
