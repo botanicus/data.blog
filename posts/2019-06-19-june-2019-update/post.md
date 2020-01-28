@@ -6,6 +6,7 @@ tags:
   - my blog engine
   - OSS
   - life values
+  - brain synchronization
 
 ---
 
