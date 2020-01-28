@@ -5,7 +5,7 @@ tags:
   - anillo Oura
   - salud
   - mi motor de blog
-  - software libre
+  - código abierto
   - valores de vida
   - meditación
   - sincronización de cerebro

@@ -6,7 +6,7 @@ date: 2020-01-27 18:40:03.936399219 +00:00
 ---
 
 
-# Letting life flow
+# Deja la vida fluir
 
 _Dropping the idea that we're the creators of our destiny, Gods of our universe, is very counterintuitive, a heresy to our "yes, we can" culture. Yet this obsession with control is what makes us unhappy._
 

@@ -46,7 +46,7 @@ First, you need to enable 1Password Safari integration in _Settings > Passwords 
 
 ![](1password-safari.jpg)
 
-And that's it!
+¡Y ya!
 
 ## What's missing
 
