@@ -4,7 +4,6 @@ date: 2019-07-11 19:20:03.833297116 +00:00
 
 ---
 
-
 # Immersing yourself in a foreign language
 
 _In my introductionary article about [how I learn languages](/posts/how-i-learn-languages), I've written about all the most important approaches that makes me an efficient language learner. Today I want to elaborate more on the most important thing of all: how to immerse yourself in a foreign language environment._
