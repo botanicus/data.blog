@@ -13,7 +13,7 @@ date: 2020-01-30 18:55:19.286217011 +00:00
 
 # Amor y transitoriedad
 
-_bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla_
+_BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA_
 
 Pues esta morena chaparrita llegó a tu vida, te dejó sentir cosas que nunca te creías capaz sentir, tan profundas, tan puras, tan verdaderas, que te parecía que nunca podría acabar. Pero no resultó: echó un desmadre, te dio a la madre y ¡adios!, se te fue.
 
