@@ -11,7 +11,6 @@ date: 2020-01-30 18:55:19.286217011 +00:00
 
 ---
 
-
 # Amor y transitoriedad
 
 _Bla bla bla Bla bla bla Bla bla bla Bla bla bla Bla bla bla Bla bla bla Bla bla bla Bla bla bla_
