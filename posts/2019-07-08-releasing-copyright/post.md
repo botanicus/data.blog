@@ -6,7 +6,6 @@ date: 2019-07-08 00:40:05.739129317 +00:00
 
 ---
 
-
 # Releasing copyright on everything on this blog
 
 _I was never fond of copyrights, restrictive licenses and their enforcements such as DRM. 99% of my work is released on GitHub free for anyone to use. So it only makes sense that I'll do so with content of this blog._
