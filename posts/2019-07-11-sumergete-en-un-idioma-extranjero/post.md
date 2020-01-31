@@ -1,5 +1,5 @@
 lang: es
-publish: no
+publish: false
 tags:
 - aprendiendo idiomas
 date: 2019-07-11 19:20:03.833297116 +00:00

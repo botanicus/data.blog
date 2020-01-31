@@ -1,5 +1,5 @@
 lang: es
-publish: no
+publish: false
 date: 2019-06-19T01:42:16.320Z
 tags:
   - ahora
