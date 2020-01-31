@@ -3,12 +3,12 @@ tags:
 - ahora
 - espiritualidad
 - depresión
-- Marisela
+- Maricela
 - terapia
 - terapia sistémica
 - TCM
 - Dios
-date: 2020-01-19 13:40:03.417778778 +00:00 
+date: 2020-01-19 13:40:03.417778778 +00:00
 
 ---
 
@@ -31,9 +31,9 @@ I want my service to be available to everyone rather than optimising for my econ
 
 ## Going to therapy
 
-In July of last year I started to see an _"old wise woman"_ called Marisela to help me make sense of all the spiritual things that started to happen at that time, as well as to help me deal with depression from which I've always been suffering.
+In July of last year I started to see an _"old wise woman"_ called Maricela to help me make sense of all the spiritual things that started to happen at that time, as well as to help me deal with depression from which I've always been suffering.
 
-I don't know how are other therapists, but I have the impression that Marisela is quite different. For starters her spiritual understanding is very deep and she has many spiritual abilities herself, getting visions, connecting to people and being able to feel if something is happening to them at that moment etc.
+I don't know how are other therapists, but I have the impression that Maricela is quite different. For starters her spiritual understanding is very deep and she has many spiritual abilities herself, getting visions, connecting to people and being able to feel if something is happening to them at that moment etc.
 
 Having some 50 years of experience in the field, she has a vast knowledge of many related disciplines, but she's basing her work mostly on the systemic therapy and family constellations.
 
@@ -55,7 +55,7 @@ I found TCM fascinating. It's a very accessible theory, anyone can manage to lea
 
 Every time I do anything spiritual, I tune into a special space, where I'm very quiet. Just like in meditation, but the difference is that in meditation, at least the way I practice it, there's _emptiness_. In this state, there is _Light_ and _Love_.
 
-Marisela, my spiritual guide, calls it _being embraced by God_.
+Maricela, my spiritual guide, calls it _being embraced by God_.
 
 Since I know how it's supposed to feel, I decided to recreate this state in meditation, to change my meditation practice, as I found this still working as meditation, as in noticing thoughts and all that, but at same time being ultimately more beautiful and enjoyable.
 
