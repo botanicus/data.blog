@@ -1,4 +1,5 @@
 lang: es
+publish: no
 tags:
 - propósito
 - metas
@@ -28,4 +29,4 @@ Yes, you can, and you can really force yourself to learn the damn French, even i
 
 _Just flow._
 
-Happy New Year! 
+Happy New Year!

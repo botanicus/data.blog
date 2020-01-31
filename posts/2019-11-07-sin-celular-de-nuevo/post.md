@@ -1,4 +1,5 @@
 lang: es
+publish: no
 
 tags:
 - minimalismo
@@ -33,7 +34,7 @@ For a long time I found having a phone redundant when I have an iPad.
 
 And if I'm to choose, iPad wins every single time. The main reason? SmartKeyboard and Apple Pencil, which are both vital for me. And even without those, I just like iPad more.
 
-It'd be quite perfect, unfortunately my iPad is the WiFi version. Next time I'm sure to buy the celular version, but for the time being it's good enough. 
+It'd be quite perfect, unfortunately my iPad is the WiFi version. Next time I'm sure to buy the celular version, but for the time being it's good enough.
 
 One issue is that it's impossible to install **WhatsApp** on an iPad without some serious hacking. But ... pretty much everyone has Messenger and that works on an iPad easy peasy.
 

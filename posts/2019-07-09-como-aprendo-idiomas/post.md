@@ -1,4 +1,5 @@
 lang: es
+publish: no
 tags:
 - aprendiendo idiomas
 - bandeja de entrada de vocabulario

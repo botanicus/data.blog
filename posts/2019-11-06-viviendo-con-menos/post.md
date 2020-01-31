@@ -1,4 +1,5 @@
 lang: es
+publish: no
 tags:
 - minimalismo
 - finanzas

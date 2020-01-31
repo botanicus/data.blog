@@ -1,4 +1,5 @@
 lang: es
+publish: no
 tags:
 - aprendiendo idiomas
 date: 2019-07-11 19:20:03.833297116 +00:00
@@ -17,7 +18,7 @@ So anything vague as impressing your friends, looking smart and in many cases cu
 
 If you have a good reason, it's nearly certain that you have a real connection to the cultre in one way or the other or you're seriously planning to have.
 
-Such as _"I'm want to marry this peruvian girl, I want to be able to speak her language."_ or _"I love Latin America, I want to move and live here"_. These are good reasons. 
+Such as _"I'm want to marry this peruvian girl, I want to be able to speak her language."_ or _"I love Latin America, I want to move and live here"_. These are good reasons.
 
 Every time when I succeeded in learning a language, I had a reason like that.
 

@@ -1,4 +1,5 @@
 lang: es
+publish: no
 tags:
 - mi motor de blog
 - código abierto

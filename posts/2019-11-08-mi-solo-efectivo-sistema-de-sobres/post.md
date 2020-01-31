@@ -1,4 +1,5 @@
 lang: es
+publish: no
 tags:
 - planificación de las finanzas
 - finanzas
