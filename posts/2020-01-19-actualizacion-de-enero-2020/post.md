@@ -1,5 +1,4 @@
 lang: es
-publish: false
 tags:
 - ahora
 - espiritualidad
