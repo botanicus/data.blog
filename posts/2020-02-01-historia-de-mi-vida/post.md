@@ -5,9 +5,9 @@ date: 2020-02-01 20:00:04.121071368 +00:00
 
 # Historia de mi vida
 
-_._
+_Pasé mi adolescencia burlándome de mis maestros, mis años 20s viajando y viviendo alrededor del mundo (en parte en alojamientos normales, en parte en mi furgoneta) y aprendiendo todo de idiomas raro, kung-fu a baile y como cocinar la carne de yak. Esta entrada cuenta como todo esto pasó._
 
-Vengo de un pueblo tradicional en la República Checa. Ya cuando era niño, sabía seguir mi camino, algo que ni mis padres ni mis maestro de escuela agradeceron.
+Vengo de un pueblo conservador en la <HashTag>República Checa</HashTag>. Ya cuando era niño, sabía seguir mi camino, algo que les complació mi poco a mis padres y mis maestros.
 
 Nunca me interesaba pretender o ocultar mis opiniones y como veía la escuela como pérdida de tiempo, no estaba muy popular con los maestros.
 
