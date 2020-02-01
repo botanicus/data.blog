@@ -5,7 +5,6 @@ date: 2019-11-06 17:40:04.467024736 +00:00
 
 ---
 
-
 # Living with less
 
 _Recently I was forced to introduce budget into my life. What I took as an annoyance and necessity ended up being a blessing in disguise that brought me more mental peace, stability and sense of direction in life._
