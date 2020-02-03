@@ -57,15 +57,13 @@ MCT me fascina. Es bastante simple entenderla, todos pueden aprender los básico
 
 ## Sintonizando al "abrazo de Dios"
 
-Cada vez cuando hago trabajo espiritual
+Cada vez cuando hago trabajo espiritual, me encuentro en un lugar muy especial, muy tranquilo. Es como en meditación, pero la diferencia es que en meditación hay _vacío_, mientras que en este estado hay _La Luz_ y _El Amor_.
 
-Every time I do anything spiritual, I tune into a special space, where I'm very quiet. Just like in meditation, but the difference is that in meditation, at least the way I practice it, there's _emptiness_. In this state, there is _Light_ and _Love_.
+Maricela lo llama _el abrazo de Dios_.
 
-Maricela, my spiritual guide, calls it _being embraced by God_.
+Como ya sé como se siente, he decidido recrear este estado en meditación y cambiar mi práctica, porque esto sí funciona como meditación, me estoy dando cuenta de mis pensamientos y sentimientos, pero es más profundo y bonito.
 
-Since I know how it's supposed to feel, I decided to recreate this state in meditation, to change my meditation practice, as I found this still working as meditation, as in noticing thoughts and all that, but at same time being ultimately more beautiful and enjoyable.
-
-Since doing healing is what tunes me into this space, I often start meditation with some self-healing to help me with that.
+Hacer una sanación es lo que me sintoniza a este lugar, entonces a menudo empiezo una meditación con una auto-sanación para ayudarme con esto.
 
 ## Mejorando el blog
 
