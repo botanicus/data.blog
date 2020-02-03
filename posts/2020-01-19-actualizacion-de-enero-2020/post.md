@@ -19,20 +19,23 @@ _Empezando mi secunda carera, yendo a terapia, luchando flema con MCT, aprendien
 
 ## Empezando mi secunda carera
 
+Después de julio de año pasado, me estaba dando cuenta, que puedo _ver más allá_ y hacer cosas en el campo espiritual que no todos pueden hacer.
 
-Since July of last year, I've been noticing that I can _see beyond_ and do things in the spiritual realm that not everyone was gifted with.
+Me estaban llegando _visiones_ que se cumplieron, podría _saber_ si algo estaba pasando con los cercanos a mi, realicé _sanaciones_ (una de estas era muy profunda, hasta quiero decir extraordinaria) y podía _ayudar a los demás_ gracias a mi percepción a sus vidas.
 
-I've been getting _visions_ that came true, was able to _know_ if something was happening to people close to me, performed _deep healing_ and was being able to _help people_ as a result of my insight into their lives.
+Esta última parte es a lo que voy a dedicarme. **Ahora estoy en un proceso de transición de TI a dar terapias y la dirección espiritual.**
 
-The last bit is what I want to concentrate on and I'm currently in the process of transition from IT to giving therapy and spiritual guidance.
+Justo como con mi primera carera, no tengo la intención de perder tiempo en una escuela. Me gusta aprender por mi cuenta. Y además esto se trata de _sabiduría y percepción_, que es algo que no aprendas en una escuela.
 
-Just like with my first career, I have no intention of going to school, which I consider a waste of time. I enjoy learning on my own. Besides, this is much more about _wisdom and insight_, which is something one cannot learn at school.
+Quiero que mi servicio sea disponible a todos. Esto es mi prioridad, no mi situación económica. Sin dudas esto va a cambiar mi estilo de la vida, pero a mi no me importa. Si tengo que comer, donde vivir y ojalá un poco para entretenerme y viajar por México, estoy feliz.
 
-I want my service to be available to everyone rather than optimising for my economic situation. This will certainly impact my economic situation, so I'm already learning to live more on budget.
+<!-- TODO: ya estoy ... con mi sistema de sobres: link it! -->
 
-## Going to therapy
+## Yendo a terapia
 
-In July of last year I started to see an _"old wise woman"_ called Maricela to help me make sense of all the spiritual things that started to happen at that time, as well as to help me deal with depression from which I've always been suffering.
+En julio de año pasado empecé a ir con una _"vieja sabia"_ que se llama Maricela para ayudarme a entender las muchas incidencias espirituales que estaban pasando a mi estos días y para ayudarme con depresión que estaba sufrido.
+
+No conozco muchos terapeutas, pero creo que Maricela es muy diferente. Para empezar su conocimiento 
 
 I don't know how are other therapists, but I have the impression that Maricela is quite different. For starters her spiritual understanding is very deep and she has many spiritual abilities herself, getting visions, connecting to people and being able to feel if something is happening to them at that moment etc.
 

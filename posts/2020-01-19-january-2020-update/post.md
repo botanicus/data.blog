@@ -21,11 +21,13 @@ Since July of last year, I've been noticing that I can _see beyond_ and do thing
 
 I've been getting _visions_ that came true, was able to _know_ if something was happening to people close to me, performed _deep healing_ and was being able to _help people_ as a result of my insight into their lives.
 
-The last bit is what I want to concentrate on and I'm currently in the process of transition from IT to giving therapy and spiritual guidance.
+The last bit is what I want to concentrate on and **I'm currently in the process of transition from IT to giving therapy and spiritual guidance**.
 
 Just like with my first career, I have no intention of going to school, which I consider a waste of time. I enjoy learning on my own. Besides, this is much more about _wisdom and insight_, which is something one cannot learn at school.
 
-I want my service to be available to everyone rather than optimising for my economic situation. This will certainly impact my economic situation, so I'm already learning to live more on budget.
+I want my service to be available to everyone rather than optimising for my economic situation. This will certainly impact my economic situation, but as long as I have something to eat, where to sleep and a little for entertainment and occasional travel within the country, I don't care.
+
+<!-- TODO: ya estoy ... con mi sistema de sobres: link it!     so I'm already learning to live more on budget. -->
 
 ## Going to therapy
 
