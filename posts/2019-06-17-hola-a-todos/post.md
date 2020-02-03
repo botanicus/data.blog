@@ -18,3 +18,5 @@ Para complicar las cosas todavía más, me di cuenta que ya me cuesta hablar che
 Pues acá voy. Aprendiz de todo maestro de nada.
 
 Espero mejorar por escribir con frecuencia.
+
+¿Y de qué voy a escribir? Todo de la vida. Me interesa mucho minimalismo y espiritualidad, viviendo vida simple y feliz en el ambiente de la locura del mundo moderno.

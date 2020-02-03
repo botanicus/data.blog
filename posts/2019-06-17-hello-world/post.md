@@ -18,4 +18,4 @@ So here I have it. Jack of all trades, master of none.
 
 I hope to improve that by writing regularly.
 
-And what I'm going to write about? Anything from my life. I'm interested in spirituality and minimalism a lot
+And what I'm going to write about? Anything from my life. I'm interested minimalism and spirituality a lot, living low-tech lifestyle and being happy in the craziness of modern world.

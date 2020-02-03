@@ -6,7 +6,7 @@ tags:
 - Maricela
 - terapia
 - terapia sistémica
-- TCM
+- MCT
 - Dios
 date: 2020-01-19 13:40:03.417778778 +00:00
 
@@ -15,9 +15,10 @@ date: 2020-01-19 13:40:03.417778778 +00:00
 
 # Actualización de enero 2020
 
-_Starting second career, going to therapy, fighting phlegm with TCM, learning to tune into "God's embrace" and improving the blog._
+_Empezando mi secunda carera, yendo a terapia, luchando flema con MCT, aprendiendo sintonizar al "abrazo de Dios" y mejorando al blog._
 
-## Starting second career
+## Empezando mi secunda carera
+
 
 Since July of last year, I've been noticing that I can _see beyond_ and do things in the spiritual realm that not everyone was gifted with.
 
