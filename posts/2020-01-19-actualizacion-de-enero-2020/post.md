@@ -35,21 +35,23 @@ Quiero que mi servicio sea disponible a todos. Esto es mi prioridad, no mi situa
 
 En julio de año pasado empecé a ir con una _"vieja sabia"_ que se llama Maricela para ayudarme a entender las muchas incidencias espirituales que estaban pasando a mi estos días y para ayudarme con depresión que estaba sufrido.
 
-No conozco muchos terapeutas, pero creo que Maricela es muy diferente. Para empezar su conocimiento 
+No conozco muchos terapeutas, pero creo que Maricela es muy diferente. Para empezar su conocimiento espiritual es muy profundo y tiene muchas habilidades también: visiones, sabe vincularse con la gente y sentir si algo esté pasando con ellos y en general _sabe_.
 
-I don't know how are other therapists, but I have the impression that Maricela is quite different. For starters her spiritual understanding is very deep and she has many spiritual abilities herself, getting visions, connecting to people and being able to feel if something is happening to them at that moment etc.
+<!-- vinc: link -->
 
-Having some 50 years of experience in the field, she has a vast knowledge of many related disciplines, but she's basing her work mostly on the systemic therapy and family constellations.
+Maricela tiene unos 50 años de experiencia y tiene un conocimiento impresionante de muchas disciplinas relacionadas, pero basa mucho de su trabajo en _terapia de la corriente sistémica_ y _constelaciones familiares_.
 
-Systemic therapy doesn't agree with our western individualistic view, that we are independent units, but rather interprets our conditions in the net of our relationships, primarily relationships in the family.
+Terapia sistémica no está de acuerdo con nuestro punto de vista individualista, que somos unidades independientes e interpreta nuestras condiciones en la red de nuestras relaciones, especialmente los en la familia.
 
-It's not a hard science, it's more of a belief system, but from my experience it works, and once we get an insight into _the unity of everything_, it just makes sense.
+No es una ciencia, es más una creencia, pero de mi experiencia funciona y para mi personalmente tiene mucho sentido.
 
 ## Fighting phlegm
 
-For the past 2 years my digestion system was regularly upset, until finally I learnt a bit about <abbr title="Traditional Chinese medicine">TCM</abbr>, adjusted my diet, and this problem stopped.
+Desde hace 2 años mi aparato digestivo estaba irritado con frecuencia, hasta cuando finalmente aprendí un poco sobre <abbr title="Medicina tradicional china">MCT</abbr>, cambié mi dieta y el problema se resolvió.
 
-It ain't finished still, and I've been having issues with too much phlegm. Currently – touch wood – this doesn't cause any more issues, but it's a sign of misbalance, and I'm trying to eliminate it.
+Todavía no acabé el proceso, sigo con demasiado flema. Por el momento – gracias a Dios – no me causa otros problemas, pero es un señal de desequilibrio y entonces quiero mejorarlo.
+
+Como _me faltaba yang_, compré un termos de medio litro y siempre llevo té de jengibre caliente conmigo. (Bebidas calientes son más yang y jengibre también.)
 
 Since I have _yang deficiency_, I bought small thermos that I always have on me and I try to drink hot ginger tea as much as I can. (Hot drinks are more yang and ginger as well.) I'm trying to eat yang foods in general and avoid yin foods as much as reasonably possible.
 
