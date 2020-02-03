@@ -51,13 +51,13 @@ Desde hace 2 años mi aparato digestivo estaba irritado con frecuencia, hasta cu
 
 Todavía no acabé el proceso, sigo con demasiado flema. Por el momento – gracias a Dios – no me causa otros problemas, pero es un señal de desequilibrio y entonces quiero mejorarlo.
 
-Como _me faltaba yang_, compré un termos de medio litro y siempre llevo té de jengibre caliente conmigo. (Bebidas calientes son más yang y jengibre también.)
+Como _me faltaba yang_, compré un termos de medio litro y siempre llevo té de jengibre caliente conmigo. (Bebidas calientes son más yang y jengibre también.) Pruebo comer más comidas yang y menos comidas yin.
 
-Since I have _yang deficiency_, I bought small thermos that I always have on me and I try to drink hot ginger tea as much as I can. (Hot drinks are more yang and ginger as well.) I'm trying to eat yang foods in general and avoid yin foods as much as reasonably possible.
+MCT me fascina. Es bastante simple entenderla, todos pueden aprender los básicos y beneficiar.
 
-I found TCM fascinating. It's a very accessible theory, anyone can manage to learn the basics and benefit.
+## Sintonizando al "abrazo de Dios"
 
-## Tuning into the "God's embrace"
+Cada vez cuando hago trabajo espiritual
 
 Every time I do anything spiritual, I tune into a special space, where I'm very quiet. Just like in meditation, but the difference is that in meditation, at least the way I practice it, there's _emptiness_. In this state, there is _Light_ and _Love_.
 
@@ -67,8 +67,8 @@ Since I know how it's supposed to feel, I decided to recreate this state in medi
 
 Since doing healing is what tunes me into this space, I often start meditation with some self-healing to help me with that.
 
-## Improving the blog
+## Mejorando el blog
 
-I know no one really reads this damn thing, but I really don't care. I write it for myself and I really enjoy it, I always loved writing.
+Me queda bien claro que nadie lee esta chingadera, pero me da igual, a mi me gusta escribir y el blog me sirve en muchas maneras.
 
-I'm making many improvements to make the app more usable, simpler and more performant.
+Hago cambios para que el web sea más útil y fácil a navegar.

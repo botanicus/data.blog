@@ -47,7 +47,7 @@ For the past 2 years my digestion system was regularly upset, until finally I le
 
 It ain't finished still, and I've been having issues with too much phlegm. Currently – touch wood – this doesn't cause any more issues, but it's a sign of misbalance, and I'm trying to improve it.
 
-Since I have _yang deficiency_, I bought small thermos that I always have on me and I try to drink hot ginger tea as much as I can. (Hot drinks are more yang and ginger as well.) I'm trying to eat yang foods in general and avoid yin foods as much as reasonably possible.
+Since I have _yang deficiency_, I bought small thermos that I always have on me and I try to drink hot ginger tea as much as I can. (Hot drinks are more yang and ginger as well.) I'm trying to eat more yang foods in and less yin foods.
 
 I found TCM fascinating. It's a very accessible theory, anyone can manage to learn the basics and benefit.
 
