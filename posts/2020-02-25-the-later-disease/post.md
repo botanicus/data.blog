@@ -1,4 +1,4 @@
-tags: ["essay"]
+tags: ["essay", "social critique"]
 date: 2020-02-25 16:00:04.499613568 +00:00
 
 ---
