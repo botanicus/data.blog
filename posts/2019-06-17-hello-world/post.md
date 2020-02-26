@@ -16,27 +16,19 @@ Eventually as I got more mature, travelling and enjoying decreased in importance
 
 And this is why I'm starting this blog. I'm not a know-it-all. I don't have all the recipes, no one does. But having lived a very varied life, I can relate to many people.
 
+And it's not just that I traveled the world and lived with various cultures ever since I was 19. No. This of course is something that formed me a lot, but what formed me even more were the not so glamorous parts of life: _needing alcohol in order to get by, taking drugs, feeling crushing loneliness, not talking to my dad for 10 years, lack of sense in life, not having money even to buy food with and so on_.
 
+Eventually with the help of my therapist and spiritual guide, Maricela, I was able to overcome these.
 
-At times I had no money, so I can relate to the poor. Other times I had a lot of money, so I can relate to the rich too. I got to know people from many different cultures and I learnt to appreciate them.
+By getting to know the ups and downs of life, I learnt to appreciate and enjoy the human condition, as difficult and crushingly heavy it can be at times. I learnt _not to judge_ and _not to assume_.
 
-By getting to know the ups and downs of life, I learnt to appreciate and enjoy the human condition, as difficult and harsh it can be at times.
+I learnt that my place is to be helping people, putting my life experience into a good use by _listening_, _being present_ and _sharing_.
 
-For a long time I wasn't satisfied with my career in IT. Sure, it gave me a great lifestyle: I didn't have to go to any office, I worked remotely, and it always paid really well. But I felt void in me, I wasn't doing something that'd be personally meaningful to me.
-
-Then I learnt that my place is to be helping people, putting my life experience into a good use by listening, being present and sharing.
+This blog is a small part of the puzzle in my efforts to do just that.
 
 I'm going to write about anything from life, but I have my favourite topics:
 
 - **Minimalism**, living a **low-tech lifestyle**, prioritising **time over money** and **being present**. If you ask me, these are the keys to living a satisfied, honest life.
 - **Spirituality**. Like it or not, there's much more to our existence than our monkey bodies and minds. For me personally, spirituality is a huge part of what gives my life a meaning. I have certain spiritual gifts that allow me to help myself and others and I deeply enjoy doing so.
 
-This blog is a small part of the puzzle in my efforts to do just that.
-
 Welcome!
-
-
-<!--
-Ups and downs: anything from drugs to ... ... learnt not to judge, not to assume
-Life, spirituality and minimalism, low-tech lifestyle, being happy with little. Being present.
--->
