@@ -14,3 +14,7 @@ Desde cuando era niño siempre _tenía opiniones muy diferentes_ de la vida y de
 Como pasaron los años, obtuve más y más confianza sobre mis ideas. _He visto que funcionan._ Podía empezar una carera exitosa en TI en menos que un año y ganar suficiente para viajar el mundo, aprender y disfrutar.
 
 Como estaba madurando, los viajes y hedonismo bajaron en importancia para mi y empecé sentir _el deseo usar mi experiencia para el beneficio de los demás_.
+
+Por eso decidí a empezar escribir al blog. No lo sé todo. No tengo todas las recetas por la vida, nadie las tiene. Pero habiendo vivido una vida diversa, puedo entender a mucha gente.
+
+No es solo que he viajado el mundo y he vivido con 
