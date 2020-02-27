@@ -1,5 +1,4 @@
 lang: es
-publish: false
 tags:
   - crítica social
   - capitalismo
@@ -11,7 +10,7 @@ date: 2019-06-18T06:32:40+00:00
 
 # Porque no quiero que pases más tiempo en mi blog
 
-_Mi amigo dice que el tráfico es el nuevo petróleo. Estos días todo se trata de involucramiento, los <abbr title="Key performance indicator, indicador clave de rendimiento"> KPIs</abbr>, enlaces visitados de anuncios etcétera. Esto se usa para objetivos tan nobles como convencer a la gente que vote para Brexit o beba más alcohol. Y si por nada de estos, por lo menos para subir el consumismo. No me parece bien._
+_Mi amigo dice que el tráfico es el nuevo petróleo. Estos días todo se trata de involucramiento, los <abbr title="Key performance indicator, indicador clave de rendimiento">KPIs</abbr>, enlaces visitados de anuncios etcétera. Esto se usa para objetivos tan nobles como convencer a la gente que vote para Brexit o beba más alcohol. Y si por nada de estos, por lo menos para subir el consumismo. No me parece bien._
 
 Recuerdo los primeros días del web. El sonido ridículo del módem que podría despertar toda la cuadra; velocidades tan bajas que tomó unos buenos 5 minutos para descargar una imagen de chica desnuda en baja resolución y también, el comienzo de los blogs.
 
