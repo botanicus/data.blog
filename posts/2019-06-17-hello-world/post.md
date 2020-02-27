@@ -20,9 +20,9 @@ And it's not just that I traveled the world and lived with various cultures ever
 
 Eventually with the help of my therapist and spiritual guide, Maricela, I was able to overcome these issues and many more.
 
-By getting to know the ups and downs of life, I learnt to appreciate and enjoy the human condition, as difficult and heavy it can be at times. I learnt _not to judge_ and _not to assume_, but rather take everyone as they are.
+By getting to know the ups and downs of life, I learnt to appreciate and enjoy the human condition, as difficult and heavy it can be at times. I learnt _not to judge_ and _not to assume_, but rather take everyone as they are, as unique human beings.
 
-I learnt that my place in life is to be helping people, putting my life experience into a good use by _listening_, _being present_ and _sharing_.
+I learnt that my place in life is to be helping people, putting my life experience into a good use by _listening_, _being present_, _accompany_ and _sharing_.
 
 This blog is a small part of the puzzle in my efforts to do just that.
 

@@ -17,4 +17,16 @@ Como estaba madurando, los viajes y hedonismo bajaron en importancia para mi y e
 
 Por eso decidí a empezar escribir al blog. No lo sé todo. No tengo todas las recetas por la vida, nadie las tiene. Pero habiendo vivido una vida diversa, puedo entender a mucha gente.
 
-No es solo que he viajado el mundo y he vivido con 
+No es solo que he viajado el mundo y he vivido con culturas distintas desde cuando tenía 19. Por supuesto eso formó quien soy mucho, pero que me formó aún más eran las partes de la vida que no son tan glamorosas: _necesitando alcohol nada más para apañarme, tomando drogas, sintiendo el peso aplastante de la soledad, no hablar con mi padre por 10 años, faltando el sentido en mi vida, no tener dinero ni aún para comprar comida etcétera_.
+
+En fin con la ayuda de mi terapeuta y guía espiritual, Maricela, podía salir adelante.
+
+Por conocer los altibajos de la vida, aprendí a valorar y disfrutar la condición humana, a pesar de que tan difícil y pesada se siente a veces. Aprendí _no juzgar_ y _no suponer_, pero tomar todos como son, como únicos seres humanos.
+
+Aprendí que mi lugar en la vida es ayudar a los demás, poniendo mi experiencia a bueno uso por _escuchar_, _estar presente_, _acompañar_ y _compartir_.
+
+Este blog es una pieza pequeña del rompecabezas en mi esfuerzo para hacer justo esto.
+
+Voy a escribir de todo de la vida, pero tengo unos temas favoritos:
+
+- Minimalismo,
