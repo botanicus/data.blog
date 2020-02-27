@@ -29,4 +29,7 @@ Este blog es una pieza pequeña del rompecabezas en mi esfuerzo para hacer justo
 
 Voy a escribir de todo de la vida, pero tengo unos temas favoritos:
 
-- Minimalismo,
+- **Minimalismo**, vivir una **vida simple, sin usar mucha tecnología moderna**, priorizar **tiempo sobre dinero** y **estar presente** en el momento. Si me pregunten, creo que esto es la llave para vivir una vida buena, satisfecha y honesta.
+- **Espiritualidad**. Si te guste o no, hay mucho más a nuestra existencia que solo nuestros cuerpos y mentes. Para mi personalmente, espiritualidad es una parte grande de mi propósito de la vida. Tengo aquellos dones espirituales que me permiten ayudar a mi y a los demás y lo disfruto profundamente.
+
+Pues ¡bienvenidos!

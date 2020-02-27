@@ -5,7 +5,7 @@ tags:
   - capitalismo
   - consumismo
   - publicidad
-date: 2019-06-18T06:32:40.789Z
+date: 2019-06-18T06:32:40+00:00
 
 ---
 
