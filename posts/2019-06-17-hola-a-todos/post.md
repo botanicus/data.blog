@@ -5,18 +5,12 @@ date: 2019-06-17 22:21:00
 
 # ¡Hola a todos!
 
-_Esto es la primera entrada. Una corta, nada más para explicar de que se trata este blog._
+_La primera entrada sobre quien soy, de que se trata este blog y porque me importa personalmente._
 
-Siempre me gustaba escribir. Mi primer trabajo era escritor técnico y durante toda mi carera en informática lo hacía.
+Siempre me gustaba escribir. Mi primer trabajo era escritor técnico y durante toda mi carera en informática lo hacía de vez en cuando.
 
-Cuando cambié a inglés 🇬🇧 como mi idioma principal, ya mi redacción nunca se sentía tan refinada como me gustaría.
+Desde cuando era niño siempre _tenía opiniones muy diferentes_ de la vida y de nuestra role en el mundo. No era muy popular con los maestros, porque me atreví a pensar y rechasé respetar el dogma (_"así se hacen las cosas por aquí"_).
 
-Después aprendí español y cuando me mudé a México 🇲🇽, español se convirtió en el idioma que más uso estos días y con esto, mi atención se ha diluido aún más.
+Como pasaron los años, obtuve más y más confianza sobre mis ideas. _He visto que funcionan._ Podía empezar una carera exitosa en TI en menos que un año y ganar suficiente para viajar el mundo, aprender y disfrutar.
 
-Para complicar las cosas todavía más, me di cuenta que ya me cuesta hablar checo 🇨🇿, que es mi idioma materno, y que ya no me fluye tan naturalmente como fluía antes.
-
-Pues acá voy. Aprendiz de todo maestro de nada.
-
-Espero mejorar por escribir con frecuencia.
-
-¿Y de qué voy a escribir? Todo de la vida. Me interesa mucho minimalismo y espiritualidad, viviendo vida simple y feliz en el ambiente de la locura del mundo moderno.
+Como estaba madurando, los viajes y hedonismo bajaron en importancia para mi y empecé sentir _el deseo usar mi experiencia para el beneficio de los demás_.
