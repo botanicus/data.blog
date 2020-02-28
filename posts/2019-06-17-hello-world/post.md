@@ -18,7 +18,7 @@ This is why I'm starting this blog. I'm not a know-it-all. I don't have all the 
 
 And it's not just that I traveled the world and lived with various cultures ever since I was 19. No. This of course is something that formed me a lot, but what formed me even more were the not so glamorous parts of life: _needing alcohol in order to get by, taking drugs, feeling the crushing weight loneliness, not talking to my father for 10 years, missing the lack of sense in life, not having money even to buy food with and so on_.
 
-Eventually with the help of my therapist and spiritual guide, Maricela, I was able to overcome these issues and many more.
+Eventually with the help of my therapist and spiritual guide, Maricela, and my friends Elvira and Patricia, I was able to overcome these issues and many more.
 
 By getting to know the ups and downs of life, I learnt to appreciate and enjoy the human condition, as difficult and heavy it can be at times. I learnt _not to judge_ and _not to assume_, but rather take everyone as they are, as unique human beings.
 
