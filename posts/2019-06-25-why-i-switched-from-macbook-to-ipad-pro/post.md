@@ -48,15 +48,13 @@ With an iPad, none of it is a problem. Most of the time the thing actually stays
 
 iPad Pro gets me through the whole day without any problems. For me this is an important factor.
 
-MacBook Air did as well, but MacBook Pro didn't, back in the day when I was using it.
-
 ### FaceID
 
 Ever since I upgraded to the new iPad Pro 12.9", I have to say I love FaceID. It just works.
 
-The thing is TouchID works _quite OK_ in many situations. The minute you're doing something out of the norm, such as working from a beach, when your palms get all sweaty, it's a pain.
+The thing is TouchID works _quite OK_ in cold or mild climate. In the hot climate, when your palms sweat, it's just not a very practical solution.
 
-And since I live in a hot country, this quickly became an issue. Looking back, I'm glad I upgraded, even just the FaceID is well worth it.
+And since I do live in a rather hot country, this was an issue for me. So I'm glad I upgraded, FaceID is definitely worth it.
 
 ### Flexibility
 
@@ -65,6 +63,8 @@ I really appreciate that the screen is not fixed to any base, such as one with a
 It makes it easy to do more flexible setups. Such as standing desk, you have your iPad in the height of your eyes, and a BT keyboard wherever it's comfortable.
 
 If you get the right stand, you can rotate the screen between the portrait and landscape mode when necessary.
+
+<!-- TODO: take a pic of my vertical setup -->
 
 And finally, if you just want to take it into a café, all you need to do is to attach the SmartKeyboard and you're good to go.
 
