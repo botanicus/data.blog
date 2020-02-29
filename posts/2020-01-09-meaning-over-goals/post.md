@@ -10,8 +10,7 @@ date: 2020-01-09 23:54:27.887444900 +00:00
 
 # Meaning over goals
 
-_It's this time of the year again, when people start their mental masturbation
-with planning their new year's resolutions, only to break half of them the first day with the hangover of the new year's celebrations._
+_It's this time of the year again, when people start their mental masturbation with planning their new year's resolutions, only to break half of them the first day with the hangover of the new year's celebrations._
 
 If there's a deep-enough intrinsic meaning in a project I'm doing, there's no need for me to have goals. I don't say _"my goal is to finish this project by XYZ"_, because if the project is (one of the _very_ few) important projects I have going on, I will remember.
 
