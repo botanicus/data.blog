@@ -37,7 +37,7 @@ Tampoco tengo que esperar para preguntar que clave usa la red o probar a leer e 
 
 Y finalmente ... cuando la red vale madres, como vale muchas veces, LTE salva el día.
 
-![Trabajando fuera en mi iPad](working-outside.jpg)
+![Trabajando en mi iPad fuera.](working-outside.jpg)
 
 ### No ventilador ruidoso, muslos quemados o despierto lento
 

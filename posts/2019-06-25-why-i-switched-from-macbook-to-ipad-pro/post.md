@@ -36,7 +36,7 @@ Neither do I have to wait to ask what the WiFi password is and then try to read 
 
 And finally ... if the WiFi sucks, as it often does, LTE saves the day.
 
-![Working outside on my iPad](working-outside.jpg)
+![Working outside on my iPad.](working-outside.jpg)
 
 ### No noisy fans, burned thighs and no slow waking up
 
@@ -72,7 +72,7 @@ Being a web developer, vast majority of bugs manifests itself in a visible form.
 
 There's nothing easier than taking a screenshot and annotating it with the Apple Pencil and then just uploading it into client's bug tracking system.
 
-![Screenshot annotated with Apple Pencil](screenshot-annotation.jpg)
+![Screenshot annotated with Apple Pencil.](screenshot-annotation.jpg)
 
 ### Split-screen
 
@@ -80,7 +80,7 @@ I found the idea of overlapping windows bloated, annoying and unnecessary.
 
 What iOS came up with is not exactly new: tile window managers on Linux have been doing it for a while. But it's an approach that works and makes sense.
 
-![Using split screen to view a Blink terminal and GitHub issues at the same time](split-screen-1.png)
-![Using split screen to have 2 windows of 1Writer open at once and translate a post from English to Spanish](split-screen-2.png)
+![Using split screen to view a Blink terminal and GitHub issues at the same time.](split-screen-1.png)
+![Using split screen to have 2 windows of 1Writer open at once and translate a post from English to Spanish.](split-screen-2.png)
 
 And that's it for now! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
