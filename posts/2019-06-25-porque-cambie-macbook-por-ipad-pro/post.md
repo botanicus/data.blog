@@ -47,3 +47,12 @@ Con un iPad, nada de esto es un problema. Por la mayoría de tiempo la cosa se q
 
 ### La pila
 
+La pila dura todo el día sin problema. Para mi esto es muy importante.
+
+### FaceID
+
+Desde cuando compré el nuevo iPad Pro 12.9", amo FaceID. Siempre funciona sin problema.
+
+La cosa sobre TouchID es que funciona _bastante bien_ en un clima frío o templado. En un clima caliente, cuando tus manos sudan bastante, no es muy práctico.
+
+Y como vivo en un país bastante 
