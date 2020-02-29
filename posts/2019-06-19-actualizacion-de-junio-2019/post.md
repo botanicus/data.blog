@@ -14,33 +14,33 @@ tags:
 
 # Actualización de junio 2019
 
-_Este mes estoy trabajando en mi motor de blog y el pipeline de la publicación. Estoy buscando trabajo de contrato en programación. Estoy experimentando con anillo Oura para mejorar mi sueño y estoy probando a vivir más sano._
+_Este mes trabajo en mi motor de blog y el pipeline de la publicación, busco trabajo de contrato, pruebo vivir más sano y estoy experimentando con anillo Oura para mejorar mi sueño._
 
 ## Este blog
 
-Tengo mucho trabajo con el lanzamiento de este blog. Hice público:
+Hay mucho trabajo con el lanzamiento de este blog. Hice público:
 
 - Un [motor front-end de blog][gh-blog-engine] en React.js.
 - Un [compilator de entradas de blog][gh-blog-generator] que me permite escribir mis entradas en formato markdown y da archivos JSON, que el motor front-end consume.
-- Depósito con [mis entradas][gh-data-blog] que lleva ambos los JSON generado y las entradas originales que escribí. <!--The JSON files get compiled on Travis CI. not true at the moment -->
+- Depósito con [mis entradas][gh-data-blog] que lleva ambos los archivos JSON generados y las entradas originales que escribí. Los archivos JSON se compilan en Travis CI.
 
-_Todos estos proyectos son disponible como software de código abierto, libre y gratis para todos. Ve los enlaces para ver las páginas del proyecto en GitHub._ <!-- Contributions welcomed. -->
+_Todos estos proyectos son disponible como software de código abierto, libre y gratis para todos. Ve los enlaces para ver las páginas del proyecto en GitHub. Contribuciones bienvenidas._
 
 ## Buscando trabajo freelance
 
 Me marché de TopTal porque estaba extremadamente discontento con los cambios allí en los últimos 2 años.
 
-Yes, automatisation, optimisation and outsourcing decreases the price, but if as a result of that your expert cannot get to his money for 3 weeks, and leaves as a result of that, was it really worth it?
+Sí, la automatización, la optimización y la externalización bajan los precios, pero si por eso un experto no puede acceder su dinero por 3 pinches semanas, y se vaya, ¿la neta valió la pena?
 
-Por esto, estoy buscando trabajo freelance. Hago **Ruby**, **Ruby on Rails**, **JavaScript** y **React.js**.
+Por esto estoy buscando trabajo freelance. Hago **Ruby**, **Ruby on Rails**, **JavaScript** y **React.js**.
 
-My contact info is on the [about page](/about).
+Mi contacto está en la página [sobre mi](/sobre-mi).
 
 ## Anillo Oura
 
-As a parte del esfuerzo vivir más sano, compré [anillo Oura][oura-ring] para medir mi sueño y actividad.
+Como una parte del esfuerzo vivir más sano, compré [anillo Oura][oura-ring] para medir mi sueño y actividad.
 
-El anillo sabe rastrear siestas (automáticamente) y meditación.
+El anillo sabe rastrear siestas (automáticamente) y también meditación.
 
 Como una persona minimalista, estaba muy vacilante comprar algo que tenga que llevar en mi cuerpo, pero mi sueño estaba de la chingada recientemente y algo tan pequeño como un anillo hasta yo puedo aceptar.
 

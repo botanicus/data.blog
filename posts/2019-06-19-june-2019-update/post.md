@@ -12,7 +12,7 @@ tags:
 
 # June 2019 update
 
-_This month I'm working on my blog and publishing pipeline. I'm looking for contract programming work. I'm experimenting with Oura ring to improve my sleep and I'm trying to live healthier._
+_This month I'm working on my blog and publishing pipeline, looking for a contract work, trying to live healthier and experimenting with Oura ring to improve my sleep._
 
 ## This blog
 
@@ -52,9 +52,9 @@ The data seems to be useful, but I'm still in the testing phase, so the jury is 
 
 # Change of life values
 
-After being enlightened by a divine influence, I came to reevaluate my direction and values. During my 20s, I was always ready to party and my priorities were a lot about having fun, doing stupid things and traveling.
+I came to reevaluate my direction and values. During my 20s, I was always ready to party and my priorities were a lot about having fun, doing stupid things and traveling.
 
-Many times it was great and many times it wasn't. It was necessary and I learned a lot. Now passing to my 30s, I feel ready to turn the page and concentrate on more lasting things.
+Many times it was great and many times it wasn't. It was necessary and I learnt a lot. Now passing to my 30s, I feel ready to turn the page and use my time more wisely.
 
 
 [gh-blog-engine]: https://github.com/jakub-stastny/blog
