@@ -26,13 +26,13 @@ _All these projects are available as open-source software, free for anyone to us
 
 ## Looking for freelance work
 
-I left TopTal after 5 years due to being disatisfied with the changes in there in the last 2 years.
-Yes, automatisation, optimisation and outsourcing decreases the price, but if as a result of that your expert cannot get to his money for 3 weeks, and he leaves as a result of that,
-you piss off your experts 
+I left TopTal after 5 years due to being grossly dissatisfied with the changes in there in the last 2 years.
 
-Because of that, I'm on a look out for freelance work. Anything in **Ruby**, **Ruby on Rails**, **JavaScript** and **React.js**.
+Yes, automatisation, optimisation and outsourcing decreases the price, but if as a result of that your expert cannot get to his money for 3 weeks, and leaves as a result of that, was it really worth it?
 
-If you might be interested, please check my [about page](/about), contact info is in there.
+So now I'm on a look out for freelance work. Anything in **Ruby**, **Ruby on Rails**, **JavaScript** and **React.js**.
+
+My contact info is on the [about page](/about).
 
 ## Oura ring
 

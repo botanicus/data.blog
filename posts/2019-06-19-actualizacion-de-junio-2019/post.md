@@ -16,7 +16,7 @@ tags:
 
 _Este mes estoy trabajando en mi motor de blog y el pipeline de la publicación. Estoy buscando trabajo de contrato en programación. Estoy experimentando con anillo Oura para mejorar mi sueño y estoy probando a vivir más sano._
 
-## Este blog <i class="hashtag">TI</i>
+## Este blog
 
 Tengo mucho trabajo con el lanzamiento de este blog. Hice público:
 
@@ -26,15 +26,17 @@ Tengo mucho trabajo con el lanzamiento de este blog. Hice público:
 
 _Todos estos proyectos son disponible como software de código abierto, libre y gratis para todos. Ve los enlaces para ver las páginas del proyecto en GitHub._ <!-- Contributions welcomed. -->
 
-## Buscando trabajo freelance <i class="hashtag">TI</i>
+## Buscando trabajo freelance
 
-Me marché de TopTal porque no estaba contento con los cambios allí en los últimos 2 años.
+Me marché de TopTal porque estaba extremadamente discontento con los cambios allí en los últimos 2 años.
+
+Yes, automatisation, optimisation and outsourcing decreases the price, but if as a result of that your expert cannot get to his money for 3 weeks, and leaves as a result of that, was it really worth it?
 
 Por esto, estoy buscando trabajo freelance. Hago **Ruby**, **Ruby on Rails**, **JavaScript** y **React.js**.
 
-Si te interesa, por favor <Email subject="Trabajo freelance">escríbeme</Email>.
+My contact info is on the [about page](/about).
 
-## Anillo Oura <i class="hashtag">salud</i>
+## Anillo Oura
 
 As a parte del esfuerzo vivir más sano, compré [anillo Oura][oura-ring] para medir mi sueño y actividad.
 
@@ -56,8 +58,9 @@ Durante mis años 20s, siempre estaba listo para la fiesta y mis prioridades se 
 
 Muchas veces estaba chido y muchas veces no. Lo necesitaba y había aprendido mucho. Ahora pasando a mis 30s, siento listo para pasar página y concentrarme a cosas más duraderas.
 
-[gh-blog-engine]: https://github.com/botanicus/blog
-[gh-blog-generator]: https://github.com/botanicus/blog-generator.js
-[gh-data-blog]: https://github.com/botanicus/data.blog
+
+[gh-blog-engine]: https://github.com/jakub-stastny/blog
+[gh-blog-generator]: https://github.com/jakub-stastny/blog-generator.js
+[gh-data-blog]: https://github.com/jakub-stastny/data.blog
 [oura-ring]: https://ouraring.com/
 [lifeflow]: https://www.project-meditation.org
