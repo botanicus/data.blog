@@ -22,7 +22,7 @@ Just to try it, I said. It was late June 2018.
 
 It's going to be one year soon. Since then, I got rid off my old MacBook Air and I've been developing exclusively on an iPad Pro and I don't look back.
 
-I upgraded since then to <i class="hashtag">iPad Pro 12.9"</i>, since it turned out testing web apps on 10.5" screen is simply not viable, but I'm still on an iPad Pro.
+I upgraded since then to **iPad Pro 12.9"**, since it turned out testing web apps on 10.5" screen is simply not viable, but I'm still on an iPad Pro.
 
 ## Advantages
 
@@ -36,7 +36,7 @@ I don't need to wait for a lazy waitress to bring me a note with barely readable
 
 And finally ... if the WiFi sucks, as it often does, LTE saves the day.
 
-![](working-outside.jpg)
+![Working outside on my iPad](working-outside.jpg)
 
 ### No noisy fans, burned thighs and no slow waking up
 
@@ -64,8 +64,6 @@ It makes it easy to do more flexible setups. Such as standing desk, you have you
 
 If you get the right stand, you can rotate the screen between the portrait and landscape mode when necessary.
 
-<!-- TODO: take a pic of my vertical setup -->
-
 And finally, if you just want to take it into a café, all you need to do is to attach the SmartKeyboard and you're good to go.
 
 ### Screenshot annotation
@@ -74,7 +72,7 @@ Being a web developer, vast majority of bugs manifests itself in a visible form.
 
 There's nothing easier than taking a screenshot and annotating it with the Apple Pencil and then just uploading it into client's bug tracking system.
 
-![](screenshot-annotation.jpg)
+![Screenshot annotated with Apple Pencil](screenshot-annotation.jpg)
 
 ### Split-screen
 
@@ -82,6 +80,7 @@ I found the idea of overlapping windows bloated, annoying and unnecessary.
 
 What iOS came up with is not exactly new: tile window managers on Linux have been doing it for a while. But it's an approach that works and makes sense.
 
-![](split-screen.png)
+![Using split screen to view a Blink terminal and GitHub issues at the same time](split-screen-1.png)
+![Using split screen to have 2 windows of 1Writer open at once and translate a post from English to Spanish](split-screen-2.png)
 
 And that's it for now! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
