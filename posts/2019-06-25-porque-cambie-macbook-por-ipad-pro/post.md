@@ -55,4 +55,12 @@ Desde cuando compré el nuevo iPad Pro 12.9", amo FaceID. Siempre funciona sin p
 
 La cosa sobre TouchID es que funciona _bastante bien_ en un clima frío o templado. En un clima caliente, cuando tus manos sudan bastante, no es muy práctico.
 
-Y como vivo en un país bastante 
+Y como vivo en un país bastante caluroso, esto siempre era un problema para mi. Estoy muy contento con la actualización, ¡vale la pena sin duda!
+
+### Flexibilidad
+
+La neta aprecio que la pantalla no está fija a ninguna base, como una con un teclado.
+
+Esto facilita armar setups flexibles, como un standing desk, puedes tener el iPad en la altura de tus ojos y el teclado bluetooth donde esté cómodo.
+
+Con un stand giratorio se puede girar la pantalla entre el modo retrato y panorama.

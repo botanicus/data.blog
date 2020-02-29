@@ -64,6 +64,8 @@ It makes it easy to do more flexible setups. Such as standing desk, you have you
 
 If you get the right stand, you can rotate the screen between the portrait and landscape mode when necessary.
 
+This is a big deal on such a small screen: if you need to work with a lot of text
+
 And finally, if you just want to take it into a café, all you need to do is to attach the SmartKeyboard and you're good to go.
 
 ### Screenshot annotation
