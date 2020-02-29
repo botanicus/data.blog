@@ -20,9 +20,9 @@ Just to try it, I said. It was late June 2018.
 
 ## Fast-forward to now
 
-It's going to be one year soon. Since then, I got rid off my old MacBook Air and I've been developing exclusively on an iPad Pro and I don't look back.
+It's going to be one year soon. Since then I got rid off my old MacBook Air and I've been developing exclusively on an iPad Pro and I don't look back.
 
-I upgraded since then to **iPad Pro 12.9"**, since it turned out testing web apps on 10.5" screen is simply not viable, but I'm still on an iPad Pro.
+Since then I got **iPad Pro 12.9"** for my work, since it turned out testing web apps on 10.5" screen is simply not viable, but I'm still on an iPad Pro.
 
 ## Advantages
 
@@ -30,9 +30,9 @@ I upgraded since then to **iPad Pro 12.9"**, since it turned out testing web app
 
 At times I go and work from the park. I watch the squirrels when I'm tired, walk a bit and then go on working.
 
-I sometimes take the iPad out with me and work in places where I otherwise wouldn't bother.
+I oftentimes take the iPad out with me and work in places where I wouldn't bother to bring a notebook.
 
-I don't need to wait for a lazy waitress to bring me a note with barely readable 32 character long weird WiFi password.
+Neither do I have to wait to ask what the WiFi password is and then try to read and enter a barely readable 32 character long password, when I'm working from a café.
 
 And finally ... if the WiFi sucks, as it often does, LTE saves the day.
 
@@ -42,7 +42,7 @@ And finally ... if the WiFi sucks, as it often does, LTE saves the day.
 
 Call me spoiled if you will, but I just hate fans, burning hot notebook and the time it takes to wake the whole damn thing up.
 
-With an iPad, none of it is a problem. Most of the time the thing actually stays cool. It has no fans and it's ready for action any time.
+With an iPad, none of it is a problem. Most of the time the thing actually stays cool. It has no fans and it's ready for action any time (unlike me in the morning).
 
 ### Battery life
 

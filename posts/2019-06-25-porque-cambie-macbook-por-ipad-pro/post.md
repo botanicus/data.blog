@@ -21,4 +21,29 @@ Nada más para probarlo dije. Era junio 2018.
 
 ## Adelantar hasta hoy
 
-Ya casi es un año desde cuando me compré mi iPad. Desde
+Ya casi es un año desde cuando me compré mi iPad. Desde entonces regalé mi viejo MacBook Air y estaba trabajando exclusivamente en mi iPad Pro y no miro atrás.
+
+Desde entonces compré **iPad Pro 12.9"** para mi trabajo: resultó que probar aplicaciones de web en una pantalla de 10.5 pulgadas no es viable.
+
+## Ventajas
+
+### LTE
+
+A veces trabajo de un parque. Cuando me canse, miro las ardillas, camino un poco y después sigo trabajando.
+
+Muchas veces tomo mi iPad conmigo y trabajo en lugares donde no me molestaría traer una compu.
+
+Tampoco tengo que esperar para preguntar que clave usa la red o probar a leer e ingresar una clave de 32 carácteres, si trabaja de una cafetería.
+
+Y finalmente ... cuando la red vale madres, como vale muchas veces, LTE salva el día.
+
+![Trabajando fuera en mi iPad](working-outside.jpg)
+
+### No ventilador ruidoso, muslos quemados o despierto lento
+
+Llámame mimado si quieren, pero me cagan los ventiladores, computadora caliente y el tiempo que se necesita para despertar la pinche cosa.
+
+Con un iPad, nada de esto es un problema. Por la mayoría de tiempo la cosa se queda fría. No tiene ventiladores y está lista para acción en cualquier momento (no como yo en la mañana).
+
+### La pila
+
