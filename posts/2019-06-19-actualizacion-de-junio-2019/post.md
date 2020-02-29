@@ -1,5 +1,5 @@
 lang: es
-date: 2019-06-19T01:42:16.320Z
+date: 2019-06-19T01:42:16+00:00
 tags:
   - ahora
   - anillo Oura

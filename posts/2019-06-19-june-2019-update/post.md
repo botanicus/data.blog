@@ -1,4 +1,4 @@
-date: 2019-06-19T01:42:16.320Z
+date: 2019-06-19T01:42:16+00:00
 tags:
   - now
   - Oura ring
@@ -14,25 +14,27 @@ tags:
 
 _This month I'm working on my blog and publishing pipeline. I'm looking for contract programming work. I'm experimenting with Oura ring to improve my sleep and I'm trying to live healthier._
 
-## This blog <i class="hashtag">IT</i>
+## This blog
 
 I have a lot of work launching this blog. For that purpose I published:
 
 - A [blog front-end engine][gh-blog-engine] in React.js.
-- A [blog content compiler][gh-blog-generator] that allows me to write posts in markdown format and returns JSON files that then the front-end engine consumes.
-- Repozitory with [my blog posts][gh-data-blog] that includes both the markdown posts I've written and the generated JSON files. The JSON files get compiled on Travis CI.
+- A [blog content compiler][gh-blog-generator] that allows me to write posts in markdown format and returns JSON files that the front-end engine consumes.
+- Repository with [my blog posts][gh-data-blog] that includes both the markdown posts I've written and the generated JSON files. The JSON files get compiled on Travis CI.
 
 _All these projects are available as open-source software, free for anyone to use. Visit the links the see the project pages on GitHub. Contributions welcomed._
 
-## Looking for freelance work <i class="hashtag">IT</i>
+## Looking for freelance work
 
 I left TopTal after 5 years due to being disatisfied with the changes in there in the last 2 years.
+Yes, automatisation, optimisation and outsourcing decreases the price, but if as a result of that your expert cannot get to his money for 3 weeks, and he leaves as a result of that,
+you piss off your experts 
 
 Because of that, I'm on a look out for freelance work. Anything in **Ruby**, **Ruby on Rails**, **JavaScript** and **React.js**.
 
 If you might be interested, please check my [about page](/about), contact info is in there.
 
-## Oura ring <i class="hashtag">health</i> <i class="hashtag">tracking</i>
+## Oura ring
 
 As an ongoing effort to live healthier, I got the [Oura ring][oura-ring] tracker to track my sleep and activity.
 
@@ -55,8 +57,8 @@ After being enlightened by a divine influence, I came to reevaluate my direction
 Many times it was great and many times it wasn't. It was necessary and I learned a lot. Now passing to my 30s, I feel ready to turn the page and concentrate on more lasting things.
 
 
-[gh-blog-engine]: https://github.com/botanicus/blog
-[gh-blog-generator]: https://github.com/botanicus/blog-generator.js
-[gh-data-blog]: https://github.com/botanicus/data.blog
+[gh-blog-engine]: https://github.com/jakub-stastny/blog
+[gh-blog-generator]: https://github.com/jakub-stastny/blog-generator.js
+[gh-data-blog]: https://github.com/jakub-stastny/data.blog
 [oura-ring]: https://ouraring.com/
 [lifeflow]: https://www.project-meditation.org
