@@ -46,7 +46,7 @@ The data seems to be useful, but I'm still in the testing phase, so the jury is 
 
 ## Health
 
-- I **meditate** most of the days. I generally aim for 1 hour and I stick with it most of the time. I've been using the brilliant [LifeFlow brain synchronization][lifeflow] tracks for a good while now. I found them to have a noticeable effect on the quality of the meditation sessions.
+- I **meditate** most of the days. I generally aim for 1 hour and I stick with it most of the time. I've been using the brilliant [LifeFlow brain synchronization][lifeflow] tracks for a good while now.
 - Oura ring has been nagging me to do more exercise, so I'm **jogging more frequently** now.
 - After spending a month in Europe, where every meal comes with either potatoes or bread, I started to prepare **salad** for myself most of the days, out of pure desperation. Now, even when I'm back to Mexico, where the food is much more fresh and healthy, I still keep eating salad most of the days.
 
