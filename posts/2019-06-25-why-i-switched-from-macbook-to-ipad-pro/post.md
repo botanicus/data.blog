@@ -14,7 +14,7 @@ It was just before my holidays. I was in my room packing my hand luggage to go o
 
 Somehow I didn't feel like bringing it along. I didn't have much work coming up and the battery of this computer grandfather got really weak. No wonder: I've been using it daily for nearly 5 years.
 
-So I decided I wouldn't take it. I went to the nearest Apple Store and bought an <i class="hashtag">iPad Pro 10.5"</i> with <i class="hashtag">Apple Pencil</i> and <i class="hashtag">SmartKeyboard</i>.
+So I decided I wouldn't take it. I went to the nearest Apple Store and bought an **iPad Pro 10.5"** with **Apple Pencil** and **SmartKeyboard**.
 
 Just to try it, I said. It was late June 2018.
 
@@ -30,7 +30,7 @@ I upgraded since then to <i class="hashtag">iPad Pro 12.9"</i>, since it turned 
 
 At times I go and work from the park. I watch the squirrels when I'm tired, walk a bit and then go on working.
 
-I sometimes take the iPad out and work in places where I otherwise wouldn't bother.
+I sometimes take the iPad out with me and work in places where I otherwise wouldn't bother.
 
 I don't need to wait for a lazy waitress to bring me a note with barely readable 32 character long weird WiFi password.
 
@@ -40,11 +40,9 @@ And finally ... if the WiFi sucks, as it often does, LTE saves the day.
 
 ### No noisy fans, burned thighs and no slow waking up
 
-Call me spoiled if you will, but I just hate fans, burning hot notebook and the time it takes to wake up the whole damn thing.
+Call me spoiled if you will, but I just hate fans, burning hot notebook and the time it takes to wake the whole damn thing up.
 
-With iPad, none of it is a problem. Most of the time the thing actually stays cool. It has no fans and it's ready for action at any time.
-
-Given how long it takes _me_ to be able to do anything in the morning, I found this to be next to a miracle.
+With an iPad, none of it is a problem. Most of the time the thing actually stays cool. It has no fans and it's ready for action any time.
 
 ### Battery life
 
