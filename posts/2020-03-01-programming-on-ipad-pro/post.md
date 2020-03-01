@@ -14,9 +14,10 @@ While there are some tries to make a locally running shell for iOS[ˆ1], none of
 
 That's no problem at all as I like to develop on a VPS anyway. It has many advantages:
 
-- You can switch between (client) machines. Anything with an SSH client will do, regardless of the operation system.
+- Your lousy café WiFi is not an issue: you can clone a 1GB git repository in just a few seconds, since your VPS' connection is blazing fast.
 - Putting iPad to sleep or even restarting it have no effects on code in the VPS – it just keeps running. If you have a large test suit, I'm sure you know what this means.
 - You have your private staging. Just share an IP and port with your coworker and ask them whether the feature they asked you to make works as they wanted it.
+- You can switch between (client) machines. Anything with an SSH client will do, regardless of the operation system.
 
 ![Blink with a tmux session that allows me to split the screen, open new virtual windows and start new sessions. Marvellous!](blink-with-tmux.png)
 
@@ -50,7 +51,13 @@ Now I'm not overly keen on Windows, but Windows support RDP, which is way better
 
 ## Downloading files from the cloud
 
+Every now and then you need to get that DB backup, zip with icons etc on your VPS. How do you do it?
+
+There's a good chance that the resource was shared with you through a cloud, be it Dropbox or GDrive. So just download it straight from there:
+
 ![This is how you can download a file from Dropbox to your VPS using the Dropbox link and wget.](download-from-dropbox.jpg)
+
+There are CLI clients for both Dropbox and GDrive, I used them both. However in case of Dropbox, just using the link and `wget` as shown above is the easiest option.
 
 ## Work-related communication
 
@@ -78,3 +85,26 @@ I already wrote about it here: [My 1Password iOS workflow](/posts/my-1password-i
 [cavps]: https://www.cavpshost.com
 [spark-app]: https://sparkmailapp.com
 [jira-app]: https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087?l=es
+
+<!--
+
+### Blink, Mosh, DigitalOcean & Docker-project-manager
+
+Docker-project-manager
+
+### Remotix, mouse, RDP & remote Windows in Azure
+
+    "Hey man, the app is ready! It works great on mobile Safari on my iPad!"
+
+It's crystal clear that as a professional web developer, I have to test on desktop browsers as well. Therefore, having access to a desktop OS is imperative.
+
+And there's another thing: doing JS development without Chrome development tools is quite impossible.
+
+Azure is the only service I pay for that I didn't pay for before. And it's costly: to have a decently fast Windows machine, I pay XXX monthly.
+
+But ... I don't have to carry a notebook around. No one can steal it, and I will never need to buy a "new version": the cost of HW upgrades is not on me.
+
+You might have noticed that the title talks about iPad Pro 12.9", while I said I bought iPad Pro 10.5".
+
+As much as prefer the smaller one, testing a web app in such a small resolution simply is not an option. It's just too small. So I got the large iPad Pro and I use the small one as my personal device.
+-->
