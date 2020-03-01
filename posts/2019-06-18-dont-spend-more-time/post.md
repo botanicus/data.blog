@@ -1,4 +1,5 @@
 tags:
+  - essay
   - social critique
   - capitalism
   - consumerism
@@ -11,7 +12,6 @@ date: 2019-06-18T06:32:40+00:00
 
 _My friend says that traffic is the new oil. These days everything is about engagement, KPIs, ad links clicked, and so on. This is then used for such a noble purposes as persuading people to vote for Brexit or consume more alcohol. And if neither of these, then at least to increase consumerism. I don't think it's right._
 
-<!-- Essay -->
 I remember the beginnings of the web. The ridiculous noise of model dialing that woke up the whole block; speeds so low, that it took good 5 minutes to download a low resolution picture of a naked girl and also the beginnings of blogs.
 
 Back then blogging wasn't done as a profession. It wasn't done for profit. _It was done by people who were excited that they got their voice in the world._

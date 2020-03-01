@@ -1,5 +1,6 @@
 lang: es
 tags:
+  - ensayo
   - crítica social
   - capitalismo
   - consumismo
