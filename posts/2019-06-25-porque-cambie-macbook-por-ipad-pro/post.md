@@ -61,6 +61,18 @@ Y como vivo en un país bastante caluroso, esto siempre era un problema para mi.
 
 La neta aprecio que la pantalla no está fija a ninguna base, como una con un teclado.
 
-Esto facilita armar setups flexibles, como un standing desk, puedes tener el iPad en la altura de tus ojos y el teclado bluetooth donde esté cómodo.
+Esto facilita armar setups flexibles, como un escritorio de pie, puedes tener el iPad en la altura de tus ojos y el teclado bluetooth donde esté cómodo.
 
-Con un stand giratorio se puede girar la pantalla entre el modo retrato y panorama.
+Con un estand rotatorio se puede girar la pantalla entre el modo retrato y panorama.
+
+Esto es bien importante: si necesitas trabajar con mucho texto que no sea muy ancho, es muy conveniente girar la pantalla y hacerlo en el modo de retrato, donde puede caber más.
+
+![Programando en el modo de retrato. En mi setup NeoVim cabe 35 líneas de código en el modo de panorama, mientras que en el modo de retrato son 50 líneas.](portrait-mode-editing.png)
+
+Y finalmente si quiero trabajar de una cafetería por un rato, nada más sujeto el SmartKeyboard y ¡listo!
+
+### Anotación de las capturas de pantalla
+
+En el desarrollo de las aplicaciones de web, muchos errores de programación se manifiestan en una forma visible.
+
+No hay nada más fácil que sacar una captura de pantalla y anotarla con la Apple Pencil

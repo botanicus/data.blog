@@ -64,13 +64,15 @@ It makes it easy to do more flexible setups. Such as standing desk, you have you
 
 If you get the right stand, you can rotate the screen between the portrait and landscape mode when necessary.
 
-This is a big deal on such a small screen: if you need to work with a lot of text
+This is a big deal on such a small screen: if you need to work with a lot of text that's not too wide, it's very convenient to be able to rotate the screen and do it in the portrait mode, where it fits much more text.
 
-And finally, if you just want to take it into a café, all you need to do is to attach the SmartKeyboard and you're good to go.
+![Programming in the portrait mode. In my setup NeoVim fits 35 lines of code in the landscape mode, whereas in the portrait mode it fits 50 lines.](portrait-mode-editing.png)
+
+And finally if you just want to take it into a café, all you need to do is to attach the SmartKeyboard and you're good to go.
 
 ### Screenshot annotation
 
-Being a web developer, vast majority of bugs manifests itself in a visible form.
+In the web development vast majority of bugs manifests itself in a visible form.
 
 There's nothing easier than taking a screenshot and annotating it with the Apple Pencil and then just uploading it into client's bug tracking system.
 
