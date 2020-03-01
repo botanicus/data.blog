@@ -84,9 +84,9 @@ There's nothing easier than taking a screenshot and annotating it with the Apple
 
 #### Drawing diagrams
 
-![](diagram.jpg)
+![A diagram I draw with Apple Pencil for one of my OSS programs.](diagram.jpg)
 
-#### Writing personal notes & drawing
+#### Writing personal notes with drawings
 
 I used to write letters quite a bit. These days I often write a note with Apple Pencil, sometimes add a drawing to convey the message and send it through email or Telegram.
 
@@ -105,7 +105,7 @@ What iOS came up with is not exactly new: tile window managers on Linux have bee
 
 ### Camera & scanner apps
 
-As much as iPad is not the perfect device for photography, I do use it at times. Especially for scanning documents, with the Scanner Pro app, where it's not even as clumsy, I actually found it quite practical.
+As much as iPad is not the perfect device for photography, I do use it at times. Especially for scanning documents, with the [Scanner Pro app][scanner-pro-app], where it's not even as clumsy, I actually found it quite practical.
 
 ### iCloud back-up & restore
 
@@ -127,10 +127,13 @@ Speaking of the scripting that you _can_ do on a VPS, I see it as a positive cha
 
 ### Occasional lack of mature apps
 
-Not always, but at times the available apps are not very mature. For instance it's not easy to find a good desktop text editor for markdown files editing.
+Not always, but at times the available apps are not very mature. For instance on desktop it's pretty easy to find a good text editor for markdown files editing.
 
 On iOS this is not that straightforward. I use 1Writer and I'm really happy with it, as it syncs with Dropbox seaminglessly, but a lot could be improved about the markdown syntax highlighting and editing.
 
 I also had issues with graphic editing. I'm really clueless on the subject, so maybe it was just me, but I tried to create a Telegram sticker, spent a good while on it and ultimately I gave up.
 
-And that's it for now! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
+And that's it for now! In a follow-up post I'm going to talk about [my programming workflows on iPad Pro](/posts/programming-on-ipad-pro).
+
+
+[scanner-pro-app]: https://readdle.com/scannerpro
