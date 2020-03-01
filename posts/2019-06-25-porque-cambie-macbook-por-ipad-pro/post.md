@@ -88,4 +88,10 @@ Lo que iOS introdujo no es nada nuevo: los _tile window managers_ en Linux ya lo
 ![Usando el split screen para ver un terminal de Blink y los GitHub issues al mismo tiempo.](split-screen-1.png)
 ![Usando el split screen para ver 2 ventanas de 1Writer al mismo tiempo para poder traducir la entrada original en inglés a español.](split-screen-2.png)
 
+### Copia de seguridad de iCloud
+
+Las copias de seguridad en los sistemas operativos de escritorio siempre son complicadas. Los sistemas tienen mucha flexibilidad y entonces es difícil saber que son todas las cosas que tienes que copiar.
+
+iOS no tiene la misma flexibilidad y esto hace las copias de seguridad súper fácil. Además Apple te da 5GB del espacio de iCloud gratis, así que ni aún tienes que gastar ni un peso.
+
 ¡Y ya! En la próxima entrada voy a hablar sobres mis flujos de trabajo en programación en un iPad Pro.

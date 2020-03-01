@@ -87,4 +87,10 @@ What iOS came up with is not exactly new: tile window managers on Linux have bee
 ![Using split screen to view a Blink terminal and GitHub issues at the same time.](split-screen-1.png)
 ![Using split screen to have 2 windows of 1Writer open at once and translate a post from English to Spanish.](split-screen-2.png)
 
+### iCloud back-up & restore
+
+Back-ups on desktop operation systems are tricky. There's so much flexibility in the system that you have no idea what are all the things that you need to back up in the first place.
+
+iOS doesn't have that flexibility and that's what makes backing up really easy. And since Apple gives you 5GB of free iCloud space, you don't even need to spend a penny.
+
 And that's it for now! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
