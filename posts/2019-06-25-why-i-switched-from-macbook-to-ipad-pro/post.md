@@ -56,7 +56,7 @@ The thing is Touch ID works _quite OK_ in cold or mild climate. In the hot clima
 
 And since I do live in a rather hot country, this was an issue for me. So I'm glad I upgraded, Face ID is definitely worth it.
 
-Beyond how practical it is, Face ID is also much safer, especially compared to password protection.
+Beyond how practical it is, Face ID is also much safer, especially compared to password protection. Unlocking your internet banking app with your face is much more pleasant and much more safe. Sure, you still do have your password to it, but since you're hardly ever using it, the chance that someone will pick it up is further reduced.
 
 ### Flexibility
 
@@ -72,13 +72,27 @@ This is a big deal on such a small screen: if you need to work with a lot of tex
 
 And finally if you just want to take it into a café, all you need to do is to attach the SmartKeyboard and you're good to go.
 
-### Screenshot annotation
+### Apple Pencil
+
+#### Screenshot annotation
 
 In the web development vast majority of bugs manifests itself in a visible form.
 
 There's nothing easier than taking a screenshot and annotating it with the Apple Pencil and then just uploading it into client's bug tracking system.
 
 ![Screenshot annotated with Apple Pencil.](screenshot-annotation.jpg)
+
+#### Drawing diagrams
+
+![](diagram.jpg)
+
+#### Writing personal notes & drawing
+
+I used to write letters quite a bit. These days I often write a note with Apple Pencil, sometimes add a drawing to convey the message and send it through email or Telegram.
+
+![On a retrospect, I could have paid more attention in the art class. But hey, I can still draw a (lousy) cat!](michi.jpg)
+
+As a matter of fact I started [tag essay](/tags/essay) and all the essays are hand-written with Apple Pencil.
 
 ### Split-screen
 
@@ -99,7 +113,6 @@ Back-ups on desktop operation systems are tricky. There's so much flexibility in
 
 iOS doesn't have that flexibility and that's what makes backing up really easy. And since Apple gives you 5GB of free iCloud space, you don't even need to spend a penny.
 
-#### MINDSET SHIFT -> WORKERS over cloud service
 ## Disadvantages
 
 ### Scripting
@@ -110,7 +123,9 @@ I'm not used to this visual programming thing. I like that it's easy to use some
 
 Sure, I can write a Ruby script and put it on my VPS. This will work many times, especially as I keep all my files in Dropbox, so the VPS can access them. However it won't help always. I used to have a script that'd play random meditation mp3. Running it on a VPS won't help me, as I'm trying to play the mp3 on _my machine_, not in the datacentre.
 
-### Lack of mature apps
+Speaking of the scripting that you _can_ do on a VPS, I see it as a positive change. It's nothing iPad specific, but having a worker or a cron job on a VPS and work over cloud files is just a much better way of handling things than having a local script working over a local FS.
+
+### Occasional lack of mature apps
 
 Not always, but at times the available apps are not very mature. For instance it's not easy to find a good desktop text editor for markdown files editing.
 
