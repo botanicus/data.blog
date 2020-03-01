@@ -26,12 +26,27 @@ Before you say _"yeah, but SSH is a pain in the arse"_, let me introduce you to 
 
 It doesn't send over all the data, preventing flooding the connection, but only the data that are visible on the screen right now.
 
-That means it's got no scroll buffer, but don't worry, just use tmux, `Ctrl+v [` 
+That means it's got no scroll buffer, but don't worry, just use tmux, `Ctrl+v [` will get you to the scroll mode.
+
+Mosh is built into Blink.
 
 ## Testing web apps
 
-![](windows-in-remotix.png)
+As much as programming itself is really comfortable, testing web apps is still lagging.
+
+Until recently there was no decent web inspector. Now there is [Inspect][inspect-app], which is by no means comparable to the Chrome web inspector, but it's a fair start.
+
 ![](inspect)
+
+Anyway if you're a professional web developer, you probably won't get by without a remote OS.
+
+It might sound like it's defeating the purpose of having an iPad, but I'd disagree: you're still on a light device that's fun to use and getting virtual Windows is really cheap:
+
+I use [CaVPS][cavps] and for $12.49 a month I have a VPS that's perfectly sufficient for my needs.
+
+![](windows-in-remotix.png)
+
+Now I'm not overly keen on Windows, but Windows support RDP, which is way better and more performant than VNC. And given that I only need Chrome and ocasional edit to the hosts file, I don't really mind.
 
 ## Downloading files from the cloud
 
@@ -39,7 +54,13 @@ That means it's got no scroll buffer, but don't worry, just use tmux, `Ctrl+v [`
 
 ## Work-related communication
 
-Spark
+It's been a while since I used the Slack macOS client, but I like the iOS version much more.
+
 ![](slack.png)
 
+When it comes to email, I really like Spark. You can attach files from Dropbox and other cloud services, postpone messages and let them return to your inbox at scheduled time and so on. It's not bloated with extra features, but it supports all the features that are important for an advanced email client, such as adding aliases, control over which IMAP folders are visible on the main panel and so on.
+
+
 [ˆ1]: Such as [iSH](https://ish.app).
+[inspect-app]: https://apps.apple.com/us/app/inspect-browser/id1203594958
+[cavps]: https://www.cavpshost.com
