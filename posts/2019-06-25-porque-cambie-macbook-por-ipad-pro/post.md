@@ -49,11 +49,11 @@ Con un iPad, nada de esto es un problema. Por la mayoría de tiempo la cosa se q
 
 La pila dura todo el día sin problema. Para mi esto es muy importante.
 
-### FaceID
+### Face ID
 
-Desde cuando compré el nuevo iPad Pro 12.9", amo FaceID. Siempre funciona sin problema.
+Desde cuando compré el nuevo iPad Pro 12.9", amo Face ID. Siempre funciona sin problema.
 
-La cosa sobre TouchID es que funciona _bastante bien_ en un clima frío o templado. En un clima caliente, cuando tus manos sudan bastante, no es muy práctico.
+La cosa sobre Touch ID es que funciona _bastante bien_ en un clima frío o templado. En un clima caliente, cuando tus manos sudan bastante, no es muy práctico.
 
 Y como vivo en un país bastante caluroso, esto siempre era un problema para mi. Estoy muy contento con la actualización, ¡vale la pena sin duda!
 
@@ -75,4 +75,17 @@ Y finalmente si quiero trabajar de una cafetería por un rato, nada más sujeto 
 
 En el desarrollo de las aplicaciones de web, muchos errores de programación se manifiestan en una forma visible.
 
-No hay nada más fácil que sacar una captura de pantalla y anotarla con la Apple Pencil
+No hay nada más fácil que sacar una captura de pantalla y anotarla con el Apple Pencil y después nada más subirla a un _bug tracking system_ del cliente.
+
+![Captura de pantalla anotada con el Apple Pencil.](screenshot-annotation.jpg)
+
+### El split-screen
+
+La idea de las ventanas superpuestas en un sistema operativo me parece hinchada, irritanta e innecesaria.
+
+Lo que iOS introdujo no es nada nuevo: los _tile window managers_ en Linux ya lo tienen por un buen rato. Pero es algo que funciona y tiene sentido.
+
+![Usando el split screen para ver un terminal de Blink y los GitHub issues al mismo tiempo.](split-screen-1.png)
+![Usando el split screen para ver 2 ventanas de 1Writer al mismo tiempo para poder traducir la entrada original en inglés a español.](split-screen-2.png)
+
+¡Y ya! En la próxima entrada voy a hablar sobres mis flujos de trabajo en programación en un iPad Pro.

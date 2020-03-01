@@ -48,13 +48,13 @@ With an iPad, none of it is a problem. Most of the time the thing actually stays
 
 iPad Pro gets me through the whole day without any problems. For me this is an important factor.
 
-### FaceID
+### Face ID
 
-Ever since I upgraded to the new iPad Pro 12.9", I have to say I love FaceID. It just works.
+Ever since I upgraded to the new iPad Pro 12.9", I have to say I love Face ID. It just works.
 
-The thing is TouchID works _quite OK_ in cold or mild climate. In the hot climate, when your palms sweat, it's just not a very practical solution.
+The thing is Touch ID works _quite OK_ in cold or mild climate. In the hot climate, when your palms sweat, it's just not a very practical solution.
 
-And since I do live in a rather hot country, this was an issue for me. So I'm glad I upgraded, FaceID is definitely worth it.
+And since I do live in a rather hot country, this was an issue for me. So I'm glad I upgraded, Face ID is definitely worth it.
 
 ### Flexibility
 
