@@ -56,6 +56,8 @@ The thing is Touch ID works _quite OK_ in cold or mild climate. In the hot clima
 
 And since I do live in a rather hot country, this was an issue for me. So I'm glad I upgraded, Face ID is definitely worth it.
 
+Beyond how practical it is, Face ID is also much safer, especially compared to password protection.
+
 ### Flexibility
 
 I really appreciate that the screen is not fixed to any base, such as one with a keyboard.
@@ -87,10 +89,33 @@ What iOS came up with is not exactly new: tile window managers on Linux have bee
 ![Using split screen to view a Blink terminal and GitHub issues at the same time.](split-screen-1.png)
 ![Using split screen to have 2 windows of 1Writer open at once and translate a post from English to Spanish.](split-screen-2.png)
 
+### Camera & scanner apps
+
+As much as iPad is not the perfect device for photography, I do use it at times. Especially for scanning documents, with the Scanner Pro app, where it's not even as clumsy, I actually found it quite practical.
+
 ### iCloud back-up & restore
 
 Back-ups on desktop operation systems are tricky. There's so much flexibility in the system that you have no idea what are all the things that you need to back up in the first place.
 
 iOS doesn't have that flexibility and that's what makes backing up really easy. And since Apple gives you 5GB of free iCloud space, you don't even need to spend a penny.
+
+#### MINDSET SHIFT -> WORKERS over cloud service
+## Disadvantages
+
+### Scripting
+
+Shortcuts are really powerful, but for me it's much easier to write a Ruby script. I know Ruby, I've been using it for over 12 years, I know the API won't change significantly and I can version it in a GitHub repository.
+
+I'm not used to this visual programming thing. I like that it's easy to use some of the UI components, but ... for me it's not as easy to use, the labels surely will change and I cannot version it meaningfully in a GitHub repository.
+
+Sure, I can write a Ruby script and put it on my VPS. This will work many times, especially as I keep all my files in Dropbox, so the VPS can access them. However it won't help always. I used to have a script that'd play random meditation mp3. Running it on a VPS won't help me, as I'm trying to play the mp3 on _my machine_, not in the datacentre.
+
+### Lack of mature apps
+
+Not always, but at times the available apps are not very mature. For instance it's not easy to find a good desktop text editor for markdown files editing.
+
+On iOS this is not that straightforward. I use 1Writer and I'm really happy with it, as it syncs with Dropbox seaminglessly, but a lot could be improved about the markdown syntax highlighting and editing.
+
+I also had issues with graphic editing. I'm really clueless on the subject, so maybe it was just me, but I tried to create a Telegram sticker, spent a good while on it and ultimately I gave up.
 
 And that's it for now! In a follow-up post I'm going to talk about my programming workflows on iPad Pro.
