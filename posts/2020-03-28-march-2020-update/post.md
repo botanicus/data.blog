@@ -7,7 +7,7 @@ date: 2020-03-28 17:40:08.240936332 +00:00
 
 # March 2020 update
 
-_Starting second career, helping out in my local community, quarantine in a tropic paradise ._
+_Starting second career, helping out in my local community, quarantine in a tropic paradise._
 
 ## Coronavirus
 
