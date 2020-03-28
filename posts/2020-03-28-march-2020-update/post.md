@@ -1,6 +1,8 @@
 tags:
 - now
 - coronavirus
+- budget-living
+- volunteering
 date: 2020-03-28 17:40:08.240936332 +00:00
 
 ---
@@ -19,7 +21,11 @@ I'm staying in a hostel for $4 a night, most of my meals that I cook costs some 
 
 ## Helping my local community
 
-With more free time on my hands, I decided to reach out to some 
+With more free time on my hands, I decided to reach out to some parishes and ask whether I can be of help. I'm not religious, I have a pretty bad oppinion about Catholicism, but I don't consider it a problem: I'm trying to look for church organisers who I can work with, more open-minded types.
+
+I'm happy to work with anyone whom I can respect and who can respect me, simple as that.
+
+I'm hoping to be able to do some free/for donation counselling as a preparation for my second career, as well as to learn about the communities.
 
 ## Coronavirus
 
