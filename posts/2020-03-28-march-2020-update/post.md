@@ -7,7 +7,19 @@ date: 2020-03-28 17:40:08.240936332 +00:00
 
 # March 2020 update
 
-_Travelling on budget, helping my local community and quarantine in a tropic paradise._
+_Travelling on budget, helping my local community and passing quarantine in a tropic paradise._
+
+## Travelling on budget
+
+Since I ended my career in IT, I only have a small income of $350 per month. Fortunately in Mexico it's possible to live with that, but we're really talking bare bones.
+
+And frankly I don't mind. I never cared for luxury. I enjoyed it when I had it, now I don't and I'm just as happy as I was before. Or more, since I don't have to work in a career that I didn't like all that much.
+
+I'm staying in a hostel for $4 a night, most of my meals that I cook costs some $2 each, so there's no problem whatsoever.
+
+## Helping my local community
+
+With more free time on my hands, I decided to reach out to some 
 
 ## Coronavirus
 
@@ -23,5 +35,4 @@ Some others don't believe in the virus exists or that it's such a big deal, sayi
 
 Personally I believe that there's such virus and that it's a big mess, but that worrying won't help anyone. I'm happy, enjoying the beach, staying active, eating well and being fine with whatever's to come.
 
-
-ZIPOL budget, bich life
+## Living on the tropic coast
