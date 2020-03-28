@@ -31,11 +31,13 @@ I'm hoping to be able to do some free/for donation counselling as a preparation 
 
 When the pandemic started to arrive to Mexico, I was just in Zipolite, Oaxaca. It's a small town with beautiful beaches, great food and very open-minded community of artisans and travellers.
 
-I was due to return to Mexico City, but I decided that staying where I am is a safer option. I'm not so much afraid of the virus, but who knows what will happen in terms of food supplies, food prices and violence.
+I was due to return to Mexico City, but I decided that staying where I am is a safer option. I'm not so much afraid of the virus, but who knows what will happen in terms of food supplies, food prices and violence. Better to stay on the seashore.
 
-For me it's quite exiting not knowing what's going to happen. I don't care to know. I like the surprise.
+For me it's quite exciting not knowing what's going to happen. I don't care to know. I like the surprise.
 
-The most interesting are the various attitudes of people. There are some that are constantly glued to the media, talking about the topic constantly and being stressed out.
+The most interesting are the various attitudes of people.
+
+There are some that are constantly glued to the media, talking about the topic constantly and being stressed out.
 
 Some others don't believe in the virus exists or that it's such a big deal, saying that it's lobby against China and I don't know what more.
 

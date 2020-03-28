@@ -22,6 +22,20 @@ Ahora me quedo en un hostal donde page 80 pesos por noche, cocino mi comida que 
 
 ## Ayudando a mi comunidad local
 
+Ahora cuando tengo más tiempo decidí a contactar una parroquias locales en Narvarte y ver con que puedo ayudar. No soy religioso, de hecho me caga catolicismo, pero no hay bronca: busco los organizadores con cuales puedo trabajar, gente más abierta.
 
+Puedo trabajar con cualquiera persona cual puedo respetar y cual puede respetar a mi, así de fácil.
+
+Espero poder ofrecer mis terapias gratis o por donativo para prepararme por mi secunda carera y para aprender más sobre las comunidades.
 
 ## Coronavirus
+
+Cuando la pandemia empezó a llegar a México, estaba en Zipolite, Oaxaca. Es un pueblito con playas bonitas, comida bien rica y comunidad de artesanos y viajeros muy abierta.
+
+Estaba a punto de volver al DF, pero decidí que no quiero quedarme allá en esta incertidumbre. No me temo del virus, pero quien sabe que va a pasar con el suministro de los alimentos, los precios y violencia. Mejor me quedo en la playa, en la orilla del mar.
+
+Para mi es bastante emocionante no saber que va a pasar mañana. No me interesa saber. Me gusta la sorpresa.
+
+Lo más interesante son las actitudes diferentes de cada quien.
+
+Hay algunos que no dejan de seguir los medios.
