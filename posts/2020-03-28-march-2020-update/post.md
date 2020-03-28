@@ -44,3 +44,11 @@ Some others don't believe in the virus exists or that it's such a big deal, sayi
 Personally I believe that there's such virus and that it's a big mess, but that worrying won't help anyone. I'm happy, enjoying the beach, staying active, eating well and being fine with whatever's to come.
 
 ## Living on the tropic coast
+
+Living on the coast is amazing. It's warm all the time, some 30–32 C during the day and about 24 C during the night. I go to the beach all the time, to have a little swim, to chill in the sun, talk to friends over a few beers ...
+
+It's much easier to keep calm, not to stress out and be really connected to oneself, living from that place most of the time, staying mindful, not being reactive.
+
+The one thing that's hard to do, especially living in a hostel is to get anything done. I don't have many things that would need to get done these days, but there are some.
+
+First world problems 🙂

@@ -38,4 +38,18 @@ Para mi es bastante emocionante no saber que va a pasar mañana. No me interesa 
 
 Lo más interesante son las actitudes diferentes de cada quien.
 
-Hay algunos que no dejan de seguir los medios.
+Hay algunos que no dejan de seguir los medios, se estresan y hablan del tema sin parar.
+
+Otros se ríen y no creen que el virus existe o que no es algo tan peligroso como dicen los medios. Dicen que es el lobby contra China y no sé que más.
+
+Personalmente yo creo que el virus es cosa muy real, pero al mismo tiempo no veo razón preocuparme. Si me toca, me toca, no hay pedo. Sigo activo, como sano y me estreso.
+
+## Viviendo en la costa tropical
+
+Me encanta vivir en el mar. Es caluroso, unos 30–32 C durante el día y más o menos 24 C durante la noche. Voy a la playa todo el tiempo, pa' nadar un poco, solearme y platicar con mis amigos con unas chelas ...
+
+Es mucho más fácil mantener la calma, no estresarme y quedarme conectado conmigo mismo, vivir de este lugar tranquilo y no en el modo de autopilota todo el tiempo.
+
+La única cosa que se hace difícil, especialmente por vivir en un hostal, es estar productive. No tengo tantas cosas importantes que hacer, pero tengo algunas.
+
+Problemas del primer mundo 🙂
