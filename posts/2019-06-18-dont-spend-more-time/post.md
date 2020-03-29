@@ -28,7 +28,7 @@ The web had its personality. Every writer was different and was talking freely a
 There were very few articles like _"6 reasons to be addicted to blog title generator"_, _"I migrated my blog away from Medium. Find out why."_ and so on.
 -->
 
-![Page 2](page-2.jpg)
+<!-- ![Page 2](page-2.jpg) -->
 
 ---
 
